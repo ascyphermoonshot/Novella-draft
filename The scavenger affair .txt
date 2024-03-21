@@ -1,34 +1,27 @@
-﻿Horizon General Hospital emergency room[a]. Portland, Oregon.
+﻿Horizon General Hospital, Trauma Room. Portland, Oregon.
 
 
 The boy went off like a hand grenade. –Midazolam 9mg STAT! Pressure 80/40 and plummeting! Doctor, thoracotomy tray ready– I snapped sulking around our car crash victim to get the Chloraprep on him. A minute later Dr. Jones was almost elbow deep in his chest and once the bleeding stopped we bolted to the OR taking off gloves and gowns in the hallways; I stopped by the doors of the elevator and left for the staff lounge.
 
-
 Just enough time, I said to no one in particular, popped a pill and washed off the smell of gasoline and antiseptic with a gulp of coffee. I chose a non-emergency patient at random from the floating menu projected into my eyes.
-
 
 –Good morning, Mr. Carlson. It says here you were with us a week ago. What's happening?– I asked. His last visit fresh in my mind; he was slammed off his tits, puking like the world was ending and red in the face; tested positive for alcohol, got saline, meds and went home to sleep it off. Today his imposing frame is back, he's wearing a suit and his short salt pepper hair is accented by his percept implants, even when pain twists him into a pretzel he looks a bit more like the fierce corporate attorney he really is.
 –My damn stomach, it's killing me again! Nausea just won't go away, fever, chills, everything spins and I've got the worst diarrhoea ever–
 Ok, this is definitely more than a bad hangover. "Timing's sus." That's the only thing In my mind as I parsed his records into the database. Routine labwork values: FUBAR. My stomach sank. This guy wasn't drunk last week and doesn't have a tummy bug today… it's something much bigger. 
 
-
 –I'll give you some meds while we run some more test– I said faking a smile while I hooked a bottle of ondansetron to his IV line.
-
 
 As soon as I was out of the exam room I sprinted like I haven't sprinted since the war.
 –Doctor Alcome needed immediately in hybrid OR–  I spoke into the PA.
 I filled an order for more tests, Prussian blue and EDTA. ICU staff poured out of the stairs and elevators.
 
-
 The room was really spacious, since the adoption of Percept systems the screens became redundant but the space never downsized. I hopped on the table and began explaining to my bedazzled coworkers.
 –I called y'all here to avoid mass panic but I think you need to know what's going on in the ER.– I beamed the images and data to their implants and kept talking. –Mr. Carlson is a 45 year old male without relevant medical history who presents at the ER complaining of nausea, dizziness, fever and diarrhoea for the last 8 days with a week long pause. He's president of the TriEye legal department. As you may see his blood count is totally out of whack– I explained. They confirmed my suspicions. I left to break the bad news while they got the ICU ready.
 
-
 Having just received the new results I came back to Mr. Carlson, locked the door and took a seat after prompting him to do the same. This will be tough.
 
-
 –Sorry for the wait. My name's Hanne Acker, I'm a physician assistant, I need to talk to you about your current situation.
-Well, you remember last week[b] you were here?–
+Well, you remember last time you were here?–
 –Yeah. Sorry about that. Couldn't hold my drink–
 – Don't worry, in fact it wasn't because of alcohol –
 –huh–
@@ -55,9 +48,7 @@ Well, you remember last week[b] you were here?–
 –Sure. Come here. We both need a hug. You won't be alone in this.–
 Carlson slouched in his chair reclining his head on my shoulder and started sobbing. I embraced him and waited. A nurse connected Prussian blue to his IV and wheeled him to the ICU.
 
-
 I came to the nurse station after popping another pill. I needed to know whether this is an isolated case or something more sinister. Everything's connected to the Percept implants but for database work a real computer is needed, nobody likes to code with their eyes.
-
 
 I start typing:
 First show all the patients with similar symptoms.
@@ -70,10 +61,7 @@ Remove patients with known immunosuppression.
 7 records found.
 Export network graph to Percept device HAEACR578…
 
-
 –Well, that's unexpected. All of them work for TriEye– I thought but got interrupted. Someone tried to chop down a tree with a shotgun and there's multiple casualties, back to the ER.
-
-
 
 
 NEXT DAY.
@@ -98,1892 +86,1251 @@ Horizon General Hospital ADMINISTRATION OFFICE. PORTLAND OREGON.
 –Great, now you're being reckless. You know I really like you and you've been doing a great job, not only here so just listen. Take the rest of the day and don't make me put you in containment –
 –Oh wow. I'll go home but I'll come back next shift and if there's a single irradiated patient more I'm calling the whole alphabet soup on you.–
 
-
 I stormed out of the office and popped a pill. I'm not crazy but it'd be hell of a thing to prove.
 Lost in my thoughts I walked to the subway station. This was no time to get lost. I needed to plan something. The platform was more crowded than usual. I didn't have any place to stand without bumping into someone, a guy tripped on me and used my purse to steady himself. What a jerk!
 Seconds before going into my train a voice boomed inside my head…
 
-
 –Hanne Ackerman, don't board that train.–
-
 
 I stopped in my tracks. –what the hell was that?– I mouthed silently. Percept can mimic voices coming from nowhere but still someone has gotten in it.
 
-
 –Hanne Ackerman. Do not board that train. We know what happened at the hospital and we can work together.–
-
 
 –Who are you?– My hand goes to my holster, brushing my Sig.
 
-
 –The name's Sedna Lutece, I'm with an organisation tasked with keeping humanity and normalcy safe from itself. You've never heard of us, we work in secret and you sparked our attention.–
-
 
 –Are you with the army? Am I being recalled?–
 
-
 –No. In Wormwood Foundation we're not affiliated with any government and completely above them. We're recruiting you to keep the world safe, help avoid a nuclear war. Yesterday a patient got admitted to the hospital where you work after ingesting radioactive materials, that wasn't an accident. We took the case since it can escalate to a preemptive strike if someone suspects a foreign power. The hospital administration ignored you but we won't.–
-
 
 –You've been following me? That's exactly what I was trying to tell Mandy and she put me on leave!–
 
-
 –Well, not you specifically. Our system was designed to find abnormalities that threaten our mission but it sees everything. I know because I built it. We need you to make a choice.–
-
 
 –What is it? By now I want in–
 
-
 –In your purse you'll find a blister one of our officers planted, inside it there's two pills, one of them, the blue one is an amnestic, if you take it you go home and won't remember our conversation, life proceeds as normal. The other, a green one is a designer drug, it'll put you under and you'll wake up in our HQ where we'll finish briefing you and we will work together. Just please don't do anything stupid or we'll both be sorry.–
 
-
 I rummage through my purse to find the blister and swallow one of my pills followed by the green one. Then the world goes black…
-
-
-
-
 
 
 Wormwood Foundation PNW division, Seattle, WA.
 
 
-
-
 I wake up in a wheelchair. The lights are dim and I can barely see the young woman at the other side of the table.
-
 
 –Mrs Acker, welcome to the Wormwood Foundation. To everyone you know nothing has changed, you'll keep your day job and use it to gain access to the case. We already met, my name is Sedna Lutece and I'm with the IT Operations Command. You can call me Zed.–
 
-
 The lights grow brighter and my eyes draw to Zed. She might as well own this place and her thin, delicate features obscured by a green hoodie offer a nice contrast to her cold demeanour. She's doesn't look a day over 20. How did she get herself into this?
-My focus lingered a bit too long as her gloved bony hands punctuate here[c] sharp and professional gestures
-
+My focus lingered a bit too long as her gloved bony hands punctuate her[c] sharp and professional gestures
 
 –Will I be working for you? Are you a handler?–
 
-
 –No, I'm an analyst and hacker, we'll work together and hopefully get along. The drug must have cleared by now. Are you feeling ok?–
-
 
 –yeah, thanks. I don't need the wheelchair at all–
 
-
 –ok, that's good, before I brief you we'll need to formalize your association–
-
 
 A door opens and someone wheels in a cart with a workstation.
 
-
-–we're getting you an access card. Please take off your goggles, they're going to the incinerator and fit you our own version of them–
-
+–we're getting you an access card. Please take off your implants, they're going to the incinerator and fit you our own version of them–
 
 I hand her my Percepts and she puts them in a copper mesh bag.
 
-
 –We need your fingerprints, iris scan, DNA sample, face ID, gait and voice signatures and vein pattern to grant you full access. Is that ok with you?–
-
 
 –oh, wow. It's certainly a lot but it's ok. How do we start?–
 
-
 –here in the cart there's a station. We will start with your fingerprints and vein pattern, please press your left hand to this scanner… ok, now your right. Now face and iris, please look at the camera, ok, uncover your ears. Thanks, now I'll take a DNA sample–
-
 
 Zed opens a test tube. What am I getting in?
 
-
 –see, it's new and sterile. Please open wide… ok, just a cheek swab… done! Now, can you follow me? We're going to the scanner to get the gait signature–
-
 
 I started following her out of the conference room, the corridor lined with screens showing several views made me forget this place has no windows. We finally got to the scanner room and Zed scanned her badge at the entrance. A keypad popped from the wall and she typed a code. The door opened to a room straight out of science fiction.
 
-
 –is that a CAT scanner‽ It doesn't look like any I've worked with–
-
 
 –in a way yes but we're not using X-rays here. What you're seeing is a real time volumetric terahertz imaging system. State of the art, even for us! Now I'll go to the control room and I'll need you to take off your shoes and stand between the two prongs… Open your arms wide, just like that. I need to make sure the arms never touch you. Ok, I'll go and you'll follow the instructions from the machine.–
 
-
 She left the room and the prongs began to spin, after gaining speed a green light turned on in the other side of the room. A voice started giving instructions.
-
 
 –Please walk normally towards the green light–
 
-
 After arriving the arms slowed down and the voice spoke again.
-
 
 –thank you for your cooperation–
 
-
 Zed came back with another cart.
-
 
 –ok, body scan and gait signature ready. Now we only need voice. Are you ready to take an oath?–
 
-
 –Oh, yes. No problems–
-
 
 –well, raise your right hand and read the text in the screen to the microphone–
 
-
 –I Hanne Acker do solemnly affirm to support and defend the normalcy consensus, human civilization and survival of earth's biology against all threats to the full extent of my capacity; that I enter this obligation freely, without any mental reservation or ulterior motives and that I will uphold and protect the secrecy and interests of our organization above any other of my allegiances by fire through shadows for earth.–
 
+–thanks. Now I'll get you your new implants, these ones look the same but they're connected to the Wormwood Foundation secure network and its helpers, also have an uplink to our satellites, and biometric monitoring. This card is your key to our facilities, locks are randomized and can ask for your card, employee number or biometrics. Always carry it–
 
-–thanks. Now I'll get you your new goggles[d], these ones look the same but they're connected to the Wormwood Foundation secure network and its helpers, also have an uplink to our satellites, and biometric monitoring. This card is your key to our facilities, locks are randomized and can ask for your card, employee number or biometrics. Always carry it–
+I fastened the implants, they're a bit heavier but the magnets still hold them securely. I look at the card and a massive amount of data shows around it. For a secret organisation this is certainly flashy.
 
-
-I fastened the goggles[e], they're a bit heavier but the magnets still hold them securely. I look at the card and a massive amount of data shows around it. For a secret organisation this is certainly flashy.
-
-
-–the card is actually an e-ink display, it has 3 modes you can control from the goggles, that was overt mode; Through Foundation approved devices it displays the identity data and current vitals of its owner, without them it shows your security clearance and name. The second is access mode; To our goggles it shows your security clearance and name but without them it is a fake ID, it can mimic any law enforcement or intelligence agency, military contractor or United Nations division. The last one is cover mode; it only shows your name through our goggles and a blank piece of paper without them. Welcome on board, agent acker.–
-
+–the card is actually an e-ink display, it has 3 modes you can control from the implants, that was overt mode; Through Foundation approved devices it displays the identity data and current vitals of its owner, without them it shows your security clearance and name. The second is access mode; To our implants it shows your security clearance and name but without them it is a fake ID, it can mimic any law enforcement or intelligence agency, military contractor or United Nations division. The last one is cover mode; it only shows your name through our implants and a blank piece of paper without them. Welcome on board, agent acker.–
 
 I shook her hand and she pulled me closer for a hug, she smells intriguing, like cinnamon and wood smoke; a good match for her personality. It's certainly a warmer reception than expected but I'll probably get used to this.
 
-
 –what is Wormwood doing about the poisonings?– I asked
-
 
 –oh, straight to businesses! Well, then I'll brief you while we get you the rest of your kit. Follow me.–
 
-
 –thanks, it's just that I really don't want any more deaths–
-
 
 –trust me, me neither. Last 2 weeks 15 people ate radioactive materials without their knowledge, 9 of them are in the hospital you work for, the rest are scattered around other states…–
 
-
 –9? I only found 7 in the hospital network.–
-
 
 –oh, you missed two, one of them arrived after the walking ghost phase and the other passed away 3 days ago. Anyways, as you may know all of them worked for TriEye Systems, they make…–
 
-
 –the Percept implant!–
-
 
 –exactly, and they are a monopoly in sensory augmentation. If this is for access we might be seeing the end of the era of information. After the Tainted Soul attacks to the 911 system people starting to question our reliance on computers, if someone gains the master key to TriEye they'll literally shape human perception.–
 
-
 –Well, we have to stop it, you have any suspects?–
-
 
 –yeah, everyone. Disgruntled employees, propaganda peddlers, luddites, the United Family Policy Concil, a dozen state actors, the Leningrad Government in Exile and a potluck of terrorist groups, both foreign and domestic. We have to reduce that list
 
-
 –Would knowing what isotopes were used help us? I think the hospital should know that–
-
 
 –well, yeah but they don't know it. You'll help us get it–
 
-
 We got to a locked room labeled "armoury" I try to find my pills but the Foundation must have taken them.
-
 
 –hmm, Zed, where are all my meds? I'm pretty sure I had them at the train station–
 
-
 –they're in the evidence locker! We didn't know they were all yours. You were carrying 10 prescription bottles with 3 different names, all for compazine–
-
 
 –uhm, yeah, they're for my migraines. I take them since the war–
 
-
 –we know that. Traumatic migraine after an IED in Iraq, it never went away–
-
 
 –wait, how do you know that?–
 
-
 –Wormwood handpicks all sources. Before we decided to take you SERENITY already pulled your files and decided a recruitment plan–
-
 
 –Hmm, who the heck is SERENITY? I only know you here–
 
-
 –oh, sorry, SERENITY.aic is our global analysis and engagement neural network. She is my brainchild –
-
 
 –oh ok ok, that makes sense, then tell SERENITY I want my meds back before it starts to hurt!–
 
-
 –your pills are in the evidence locker, SERENITY doesn't have access and neither do I. We can get you compazine from the on-site clinic but please stop eating them like candy–
-
 
 –well, if I don't do it I get grumpy and then the migraine comes back, I know how to dose my own drugs!–
 
-
 –ok ok, I already requested a new bottle, it'll come through the tubes, luckily there's one here at the armoury, you are already getting grumpy–
-
 
 Zed opens a tube mail capsule and hands me a pill bottle with no label, I pop a few pills.
 
-
 –Ok, thanks, I wasn't getting grumpy for the migraine, I just don't like people messing with my pills, sorry–
-
 
 –yeah, don't worry, sorry for the mistake but you understand, you had a pharmacy with you–
 
-
 She opens a locker and grabs a small box
-
 
 –ok, Hanne, this is the rest of your kit, open it with your thumbprint please–
 
-
 I do it, inside there's a small ring with the engraved logo, a snake swallowing it's own tail around some kind of bush topped by a symbol I don't recognise, there's also a handgun.
-
 
 –that is the high tech equivalent of a signet ring, RFID chip and cryptoprocessor, it's used inside our network, it also has a distress beacon, press it and we will come, SAM, our information suppression AI will take care of the rest. You can put it on–
 
-
 –oh, ok, thanks, and the gun?– I unload it and start checking it, it's way bigger than most others but surprisingly light.
-
 
 –that's the Lucidity, the official Foundation sidearm, a modified FN with 3 round burst mode and 30 rounds extended magazine, there's 2 magazines there, one are self defence hollow points, the other are semi armor piercing incendiary–
 
-
 –really? An a machine pistol. Just how much money do y'all have‽–
-
 
 –well, that's classified and above both our paygrades, better don't think about it too much– zed said with a slight playful grin.
 
-
 –yeah, that makes sense…–
-
 
 –once again welcome on board. Time for your first mission! Tomorrow you'll order some blood tests for all the ARS patients but you'll draw an extra tube, one of our operatives will collect them and analyse them, that way we can determine what exactly are we dealing with, now you're free to either go home or relax at our pool in sublevel 3. I think you'll like this place as much as I do–
 
-
 Zed hugged me once again, I can already start to like the office culture here, I take a pill, head to sublevel 3 and unwind after the day.
-
-
 
 
 NEXT DAY.
 Horizon General Hospital ICU. PORTLAND OREGON.
 
 
-
-
 I get in Mr Carlson's room, he's starting to deteriorate, he's dehydrated and too weak to even sit, he looks broken but still imposing. His wife has been with him all the time and probably will be until the end.
-
 
 –Hi, Mr. Carlson, it's me, Hanne–
 
-
 –Please call me Dave, I may be dying but I'm not that old– he spoke with a hoary voice and great effort but a small chuckle still escape his lips.
-
 
 –it's ok, Dave, I'm here to take a blood sample, don't worry, with your catheter it won't hurt. Are your painkillers working ok?–
 
-
 –Yeah, thanks for that… I've been slammed since I got here.–
-
 
 I take the end of his catheter and start cleaning it, flush and discard but this time I keep the waste blood. This go to Wormwood.
 
-
 –thanks Dave. I'm here if you need me
-
 
 –well, I think you should meet my wonderful wife. She's right here–
 
-
 –oh, sorry, nice to meet you, I'm Hanne Acker, physician assistant. I hope we could have met in different circumstances.–
-
 
 –it's ok, Mrs Acker, I'm Avery Carlson.– I take off my gloves and shake her hand. The face mask and implants can't hide the sadness in her eyes.
 
-
 –nice to meet you, should I call you…–
-
 
 –Avery, please, no need for formalities now.–
 
-
 –ok, Avery, sorry but I have to go now, they need me in the ER. Still, you know you can call me if you need anything.–
 
-
 I leave the room and immediately call Zed, the last tube is ready, I leave them on a cart at the ER, Wormwood can pick them up whenever they want. After popping another pill I go to the office, I'm behind on my charts.
-
-
 
 
 End of the shift
 Horizon General Hospital MAIN ENTRANCE. PORTLAND OREGON.
 
-
 My Percept rings, it's Zed.
-
 
 –Hello, Hanne. We got the samples, the analysis are ready, we need you here now. Don't worry, we arranged a transport for you, we sent you the details.–
 
-
 –Thanks, Zed, the car is here.– I hop into the car, the driver looks at me from the rearview mirror. He's wearing a hat to hide his baldness and even that passing glance was enough to show his cunningness.
-
 
 –Welcome, can I see your ID? Overt mode please–
 
-
 I hand it to him.
-
 
 –Thanks, Mrs Acker. I'll take you to our office, we'll be there in 30 minutes. Mrs. Lutece told me to give you these.–
 
-
 I grab the evidence bag he handed me, they are my pill bottles. I open it and put them all in my purse where they belong, along with the baggie, now stamped "VOID" where the tape held it closed.
-
 
 –You happen to know why she wanted to see me?–
 
-
 –No idea, it's probably something about the TriEye murders but I wouldn't put it past her that she just likes you.–
-
 
 –Wait what‽–
 
-
 –it's ok, I was just kidding. It's about the case but I have no details. Still, you're her type, just don't tell her I told you.–
-
 
 The rest of our commute passes in awkward silence. She is also mine but nobody needs to know that.
 
-
 We arrive to an industrial park, the driver scans his badge and speaks into a microphone. A gate lifts and we can get in. I'm sure I've driven past this place and never thought much about it, now being inside I can't help but notice how tight the security really is, every lamp post houses a poorly concealed laser target designator.
-
 
 –hey, what's up with all the lasers?– I ask
 
-
 –those? Our main building has an artillery battery in the rooftop, they autoselect the targets, don't worry, they're always off unless shit really hits the fan. Ok, we arrived, Zed's in annex B, it's the small building on the right, you'll need your card back to enter.–
-
 
 I get out of the car and go to the building, Sedna is already waiting for me. I straighten myself a bit and get ready to meet her, the girl's a hugger so that's how I greet her.
 
-
 –Hi Zed, you called me, is everything ok?–
-
 
 –yeah, don't worry, Hanne, it's just that I have news about the case, our lab analysed the blood samples and I cross referenced the results with our radiation monitoring databases. I found it in the UN isotopic mapping network.–
 
-
 –Oh yeah, I remember when they deployed it after Chernobyl's battle. Most people thought it was useless. Does the poison came from a single place?–
-
 
 –Actually yes, it matches a superfund site nearby. Are you familiar with the Hanford Site?–
 
-
 –hmm, Hanford? Wasn't it used in the Manhattan Project? I think it's open to the public. Do you think this was an accident?–
-
 
 –Accident? Not with the levels I found, this was poisoning. As you know Hanford Site is the biggest superfund site, apparently it got cleaned up but you may not know the contaminated soil never disappeared, there's a secret storage for high level nuclear waste and that matches the samples.–
 
-
 –then how did it end up inside our victims? I guess they didn't break into the facility to kill themselves.–
-
 
 –well, that's what we need to find out. We have to go to Hanford and see with our own eyes, do you like road trips?–
 
-
 –sure, but I have to work. I'm not sure if that's a good idea…–
-
 
 –dont worry about it. We already solved that, sent a spoofed email to your job, you're getting two weeks of court leave starting tomorrow. We're going to Hanford!–
 
-
 –two weeks? Well, thanks. I thought Hanford was closer.–
-
 
 –oh, no, it's like 4 and a half hours from here but SERENITY thought you'd like to follow the case. I guess she's right?–
 
-
 –absolutely! I'll go pack my stuff, when are we leaving?–
-
 
 –Well, I'm glad you're in. We leave at 0600 to avoid traffic, we're going under civilian cover–
 
-
 –should I take anything special?–
 
-
 –just the usual, medicine, Geiger counter, snacks…– I see a smug grin forming on Zed's face. I extend my hand and again she pulls me closer for a hug. Now I go home.
-
-
 
 
 Next day
 Hanne Acker apartment
 
 
-
-
 I'm not sure if Zed was joking about needing a Geiger counter but I packed a dosimeter just in case. I wait for her outside the front door, bag in hand and a dosimeter strapped to my clothes. The elevators aren't the most responsive in the morning and I don't really want to run down 10 flights of stairs before getting in a car for a few hours so I got ready a bit earlier.
-
 
 Suddenly a food truck pulls out in front of the door, the horn beeping motherfuckingly. Again, so much for subtlety, Wormwood! The door opens and out comes Zed, a slick top hugs her slim body showcasing her collarbones like a museum piece, she's wearing skinny jeans and her signature white gloves, however the fluffy overcoat does a good job at concealing her figure, she looks super comfortable and as always in control. I'm not dressed as casual but I think I have a comfy vibe too.
 
-
 –Hey, Zed! Good morning, ready for our trip? Want me to drive or you like doing it?–
-
 
 –Hi, Hanne, I hope I didn't wake you up! Nah, it's ok, driving relaxes me. Hop on, if we beat the traffic we can get to Hanford before noon.–
 
-
 –Oh, yep, the interstate exit will be torture if we wait. By the way, what the hell is that car?–
-
 
 –This? It's one of Wormwood's mobile labs, it's completely undercover but don't let the paint job fool you, I'll show you the interior.–
 
-
 –oh, thanks, yep, it fooled me, I mean, food truck? Really?–
-
 
 –oh, come on! Get in there–
 
-
 The back doors open and a small ramp deploys, the interior looks like something out of a movie. I see Zed feels proud of this, was she involved in making it?
-
 
 –you liked it, Hanne. Check out all the cool stuff, we have a BSL-III cabinet, scanning laser microscope, stereo microscope, deep freezer, GC-MS and a small vibrationally isolated bench but the heart is this box here–
 
-
 –oh wow, it's really cool, did you design it? What's in the box?–
-
 
 –oh, nonono, but the Foundation assigned this as my work vehicle, in a year they'll decommission it and it'll be mine! I'm kinda proud of that, especially the box. It's a 250 qubits quantum computer hooked to a small server and a KVM switch, it also doubles as a water heater for the camping shower. Here, if you open this door the keyboard comes out, pretty neat, right?–
 
-
 –oh, yep! It definitely suits you. It's awesome! But I think we should go now–
-
 
 –yes, just close the doors, you can come to your seat through that small door.–
 
-
 Zed started the car, after a few minutes we got to a stoplight, I opened the door and seated shotgun.
-
 
 –Well, Hanne, we'll be here for a while, I'll start some music, do you have anything specific in mind?–
 
-
 –Not really, I'll let you choose. If I fall asleep just wake me up when we get to the interstate–
-
 
 –trust me, you won't fall asleep, I have a selection of pure bangers, slightly old but I think you'll like them– Zed chuckled
 
-
 –oh, sorry, it's not because of that, just an old habit from the army, hurry up and wait, you know. I'm looking forward to your music–
 
-
 I took one of my pills and started to doze off…
-
-
-
-
 
 
 Columbia River gorge. Still en route
 
 
-
-
-
-
 –wakey wakey, Hanne! We're in the highway already.–
-
 
 –oh, hi! The ride's super smooth.–
 
-
 –Yeah, electric engines and isolated chassis tend to do that. I hope you enjoyed your nap–
-
 
 I wake up, the air's a bit chilly and Zed is already singing, David Bowie is blasting from the radio, I know we're going straight to the center of one of the worst poisonings in recent history but I couldn't help but enjoy our trip. The music was loud and the scenery was breathtaking, so I started singing along with her. The mountains rose up on both sides of us, their rocky outcroppings reaching for the sky. The river flowed alongside us[f], its blue-green waters reflecting the sunlight. She has great taste in music and with that the time flies, I take a side glance at my dosimeter, everything's fine, at least they didn't release anything into the river.
 
-
 Zed takes a small detour and we leave the scenic highway, we get into a small town, she's looking for something.
-
 
 –hey, why are we slowing down? We're nowhere near Hanford yet, should we take samples?–
 
-
 –oh, no, don't worry. I just thought we could stretch our legs… help me find the café, this place is famous as the best coffee in the PNW. You have no idea how much I love coffee, sorry for the stereotype but what they say about programmers is true, I basically ran on it all my time in college. What about you?–
-
 
 –sure, it's fine, and yeah, I'm in the mood for a good cup of rocket fuel and if you say it's that good I definitely want to try it… look! There's the place… are you sure we can just park the truck in public?–
 
-
 –yep. Just don't open the back doors and the curtain at the same time… rocket fuel? You're a woman of taste. I see we have lots of things in common –
-
 
 We get into the somewhat empty coffee house, the smell makes Zed's eyes shine, she's taking pictures with her Percept and takes it off to snap a few selfies.
 
-
 –Hanne, come here, we should take a pic together!–
-
 
 I grab her and smile, we snap a few pics at the counter. Her perfume's smells amazing, even through the essence of coffee filling the air. Whatever it is I got into at least I couldn't have asked for better company. What if the driver was right? Nah, forget it, we have just met. We get to the counter, it's time for Zed to order and she looks like a kid in a toy store.
 
-
 –Hi! Good morning, I'll take a cold brew latte, one pump of peppermint, no sugar. Oh, a name? Zed, also a kilo of espresso blend to take home please.–
-
 
 It's my turn
 
-
 –Hi, for me it'll be a black tie but make it double, please. I'm Hanne, by the way–
-
 
 Zed looks at me, she's puzzled, probably because of my order.
 
-
 –you should try it someday. It's spiced Thai tea sweetened with condensed milk and 2 shots of espresso. My grandma grew up in Thailand and always made this for me after I came back from the war. It's pretty hard to get at most coffee shops.–
-
 
 –oh ok. That's pretty cool, I'll probably buy one of those for the road. I didn't know about your grandma, were you close to her?–
 
-
 –sure. I can also make it for you someday. Well, not really that close, she got pretty angry that I enrolled, she said I was setting myself up to get killed and never understood why I did it. I guess I wanted to get a taste of the world before locking myself in college but after the war I realised it wasn't for me, made amendments with granny and grew closer to her… sorry, I got a bit carried away.–
-
 
 –no, don't apologise. Thanks for opening up, I have to say there was nothing about your grandma in your files. And yeah, I'd love to try your black tie, I'm a sucker for caffeine if you haven't noticed–
 
-
 –girl, of course I noticed! The only reason you're not eating the espresso blend as a snack is because you don't want people to stare… and you didn't find anything about her because she had no files, she smuggled herself to America pregnant with my aunt. From then on she was a living ghost. I guess you should append to your files that I'm half Thai–
-
 
 –oh, sorry, she was probably a very strong woman. And I'm not eating the espresso blend as a snack because last time I did, some fuckhead thought I was snorting blow.–
 
-
 –oh my God, sorry!!! I was kidding.–
-
 
 –yeah, it takes a weapons grade idiot to mistake coffee and cocaine. Don't be sorry, you can laugh about it.–
 
-
 I finish my coffee and get ready to leave, Hanne goes back to the counter and orders a black tie for the road, we get back into the truck and hit the road again, we have more than 150 miles ahead.
-
-
-
-
 
 
 Brooks Memorial State Park.
 Still on the road.
 
 
-
-
-
-
 –Really, Zed? You have a twisted sense of humour, I like it–
-
 
 –what? I told you they're oldies!–
 
-
 We start laughing, I stretch a bit and my fingertips brush against her hair. It jolts me back to earth. Another song comes on the speaker as we blast through the pine lined road, Zed is singing again.
-
 
 –Hanne, that's my song! Really, it's almost like it was written for me.–
 
-
 – Why do you say that? I guess we should know each other better then.–
-
 
 –yeah, you're right. I mean, I guess I've been chasing a starlight for all my life. I grew up in Reno, people called me gifted but I don't think that's right, I just pay attention and was always drawn to computers, I skipped grades and left for college. Had to leave my partner behind then the CIA came and I left everything behind again, I was a natural fit for intelligence and was always better with AI than humans, that caught Wormwood's eye and I had to abandon everything to land the full time position. Don't get me wrong, I love what I do and the money's amazing but I don't know if it was worth the loneliness.–
 
-
 –oh, sorry, that sounds incredibly hard. If you ever feel alone I'm here, you can count on me as a friend–
-
 
 –Thanks, Hanne, it really means a lot to me. You can also count on me as a friend. And who knows, maybe I'll find someone someday. I'm still too young after all–
 
-
 –oh yep! You don't look a year over 20 and honestly I don't know how you haven't got a boyfriend considering how amazing you are!–
-
 
 Zed blushes. As expected I had a bad case of foot in mouth. She wasn't supposed to know yet! I can only brace for the metaphorical impact and get ready to save face.
 
-
 –Thanks! Well, that explains why I still get carded everywhere but nope, I'm 26. Still young for a spy but perfectly legal for everything, if you know what I mean… And it may be hard for me to get a boyfriend considering I like girls. What about you?–
-
 
 –wow, that's cool! I uhm, actually… kinda don't know, I mean, I think I'm straight but I hooked up with both in college… but, uhm, now I'm not really sure–
 
-
 If I blush anymore I'll start to emit light, my breathing is getting faster and that only makes me even more aware of Zed's sweetness.
-
 
 –Ohh, it's ok, Hanne, college is good for discovering oneself, I was a huge sluuuut back in George Washington! Don't tell anyone but I probably banged half the girls in my OSINT class… and I should stop talking before I say too much.–
 
-
 –nah, it's ok, you can tell me whatever you want, I like to think of myself as open minded–
-
 
 –well well. And what's in it for me? Believe it or not I'm a very private person… maybe if we went for a drink we may share our experiences. In vino veritas, they say…–
 
-
 Now it was her turn to blush. Her hand goes to the console and meets mine on the way to my snack bag. Her gloves are firm and hug her delicate hands, a good contrast with the softness of her skin…
-
 
 The truck jerks to a stop among the protests of all the isolators, my neck protests too. A deer stares at us from a few centimeters away. All of our relaxed mood has vented.
 
-
 –Zed, where the fuck did that came from? Are you ok. That was close!–
-
 
 –yes, don't worry, just shaky. I guess I was putting more attention to you. Sorry. What about you?–
 
-
 –yeah, I'm ok, good reflexes!–
 
-
 –thanks. We were lucky, oversight would kill me if we wrecked the lab. The good part is that we're about to enter town, there shouldn't be anymore deer–
-
-
 
 
 Hanford Site.
 
 
-
-
 –Hanne, have you ever been undercover?–
-
 
 –hmm, nope! But I'm willing to learn–
 
-
 –ok, get your card ready in access mode, We're going in as EPA inspectors–
-
 
 Zed opened a trapdoor, there's a box with NBRC gear and a machine gun. She grabs the box and takes out a Geiger counter, 2 suits, gas masks and 2 pencil dosimeters. I take a pill, don my suit and get out of the truck. We get to the main entrance and Zed flashes her cars to the park ranger.
 
-
 –good morning, Sir. This is an EPA inspection, we have a tip about a radiological anomaly here, we need to see the storage area–
-
 
 –good morning, ma'am, I'm afraid it's a mistake, we haven't had any problems.–
 
-
 –it's not a mistake, we were called here. There's been a spike in radiation levels and we need to see the storage area–
-
 
 –hmm, this is surely wrong, let me call my superior–
 
-
 –Sir, you're not making things easier for us. This is a federal investigation on a possible radiological incident in US territory, take us to the storage area now!–
-
 
 The guard brushes his gun, ready to unholster. This is escalating too fast.
 
-
 –I understand, but you gotta know it's not my decision…–
-
 
 –Soldier, this is a direct order, take us to the storage area now! Otherwise you risk a court martial. If you don't want to spend the rest of your life branded as an atomic spy you better obey–
 
-
 I won't let Zed get hurt, I take over her, a hand on my holster and speak loudly into an imaginary earpiece, hoping the ranger doesn't catch my bluff.
-
 
 –This is Mrs. Acker and Mrs. Lutece. We need backup, send the assault and entering team–
 
-
 The ranger face gets pale, he doesn't stand a chance against a whole swat team.
-
 
 –sorry, you can enter, the storage area is buried behind Reactor B. Should I take you there?–
 
-
 –No, in fact we will take it from here. Don't get close in case there's any kind of radiation–
-
 
 Zed gives a sigh of relief and turns on the Geiger counter, we start walking towards the storage area
 
-
 –Hanne, how did you choose to bluff him like that? That was brilliant!–
-
 
 –well, he was getting quite difficult but there's not a lot of firepower here. Better to scare him than shooting him in the face, right? Anyways, you started with the empty threats. Atomic spy? –
 
-
 She smiled awkwardly. –well, yeah! And it wasn't an empty threat, the Foundation would have taken care of him–
-
 
 We arrived to the storage area, the Geiger counter slowly climbing. Zed found a shack that looked very out of place. We got in, there's a mantle lamp in a wooden table, we need it even if it's full daylight outside. I light it. The scene in front of us is quite puzzling.
 
-
 –thorium mantle, basically a collection item, I haven't seen them in real life. All the gas canisters are empty and the lamp is just half full, we're not the first ones here, Hanne.–
-
 
 –yeah, we better take pictures, bag everything for the lab.–
 
-
 There are several sandbags neatly folded, the dirt is loose. Somebody has been taking bags of polluted dirt, Zed unzips her pocket and takes out an evidence bag and fills it with soil.
-
 
 –Hey, Zed! See what I found. There's a key here it has some kind of inscription but it's been filled, do you think the guys at the Foundation can get it?–
 
-
 –yep! Actually we can do it in the truck, photograph and bag it, we should take it… this is weird. It was wrapped in this cloth, it smells like ammonia. We won't find any fingerprints here–
-
 
 I collect the key. Now we have to find how did the poisoner got here and why the dirt. We get out of the shack and start looking for anything weird. The only entrance is where we came from and the place is surrounded by a fence, so we walk along the perimeter.
 
-
 –is it the first time you played forensics Hanne? You're quite good at it! I'm glad we can be partners… in the case, I mean!–
-
 
 I can't really see her face through the suit and gas mask but it's obvious she's blushing. Something catches her eye and she drops to the floor next to the fence. A full section of it comes out.
 
-
 –this was the entrance! See the tool marks? This wasn't an accident, they cut it off and yanked it out.–
-
 
 We walked through the missing section of the fence and she finds the drawstring from sandbag next to some tire marks.
 
-
 –check it out, someone loads the bags in a car and drives away. I measured the width and this matches an SUV–
-
 
 –makes sense, that way no-one can see they're loaded when they leave.–
 
-
 We go back to the truck, we already notified the authorities and this place will be crawling with feds at any minute. Both of us get in the mobile lab, time to see what it can do.
-
 
 –we have the dirt, the fence and the key, where do you want to start, Zed?–
 
-
 –leave the key for now, we'll have to polish it. We can do that on the road. That leaves the dirt and the fence. Which one do you want?
-
 
 –ok, then I'll take the key on the road since you have to drive. For now I'll take the fence, I guess I should try and get how it was cut. Right?–
 
-
 –yes! I was hoping you said that. You have to try and do exactly that. I'll check whether the soil has the right isotopes–
-
 
 I go to the workbench and cut the part where they cut it, meanwhile I keep stealing glances at Zed as she prepares the dirt samples for the mass spectrometer. Now it's time to see my piece of fence under the microscope, I think out loud.
 
-
 –the surface looks somewhat polished but the cut wasn't done in one movement, they tried several times. I guess our poisoner isn't good with tools, they even left something embedded here. I'll need way more magnification to see what it is. Hey, Zed, you said there's a laser microscope here, how can I use it?–
-
 
 –don't worry, I'll send the AR instructions to your implant, it's pretty easy to get used to it–
 
-
 –thanks! You're awesome.–
-
 
 I take the sample to the microscope, the residues are some kind of powdered crystal.
 
-
 –i found it! They used an angle grinder.–
-
 
 –whoever did it was sure they wouldn't catch him. They studied the place–
 
-
 –makes sense to me. What about the dirt? How's everything going?–
-
 
 –sample prep is ready, I'll load it and wait for the results, we can start moving while it runs. We kinda have to go back to Portland. Wanna have lunch? You can work on the key on the way.–
 
-
 –sure! I guess you know where's the etching compound–
-
 
 –small cabinet under the computer, it's called solution C. Just put some gloves on, it's kinda caustic.–
 
-
 –thanks! I'll do it–
 
-
 I grab the solution and start polishing the key with a wad of gauze, Zed starts the truck and the radio and we get on the road again.
-
-
 
 
 Umatilla bridge
 On the way back home
 
 
-
-
 –the key is ready. I found a logo. Should I rinse it?–
-
 
 –oh yep. There's distilled water on the back, leave your gloves on the bench top, please. Also can you scan the logo, we can find a match in the databases–
 
-
 –I'm on it… by the way, Zed, what's up with your gloves. You always wear them. Is everything ok?–
-
 
 –these? Oh, everything's ok, they are compression gloves. It's just prevention. I'm a programmer and a lesbian! I have to take care of my hands. I'd hate to get carpal tunnel stuff in my twenties–
 
-
 She blushes a bit. We're entering another town.
-
 
 –it's ok, Zed, I was just curious. I have to say it suits you, I like your style. What do you say, want to grab lunch as you said?–
 
-
 –Sure! Hmm, SERENITY recommended a place nearby. I think you'll like it.–
-
 
 –oh, that computer… I'm open to hear her idea.–
 
-
 –well, it's a bistro here in Umatilla. I'll beam you the menu.–
-
 
 I quickly scan the document in my implants, it's exactly my kind of place.
 
-
 –it's fine by me, it sounds really tasty. What about you?–
-
 
 –I was hoping you said that, I want to try it too, well, I already downloaded the location, we'll be there in a minute–
 
-
 –sounds great. It's like she knew me. Just don't tell me SERENITY chose my handler too, I like you.–
-
 
 –Hanne, I already told you, I'm not your handler, we're in this together. And no, I chose this case, I can choose a couple per year to go on field, keep myself sharp and fine tune SERENITY. And thanks, I like you too.–
 
-
 –oh well, you chose a good one. And I'm glad you enjoy the company. I do!–
-
 
 –oh yep! I'm normally a private person but I feel I can open myself with you… And the bistro's right there, just let me check the mass spectrum and upload the logo you found and then we can eat–
 
-
 –It's ok, just remember to doff the suit, we don't want to create panic.–
-
 
 We go to the lab and she uploads the data while I take off the suit but leave the Foundation's dosimeter In my pocket. Zed does the same and then we get to the restaurant. I pop another pill. The relaxed atmosphere draws me even if it's unapologetically American, there's not a lot of people here.
 
-
 –Well, Hanne, I already checked the results, check the peak, there's a bit of radium-224. The lamp wasn't that old. There's also a whole bunch of iodine-131 which makes sense as a murder weapon. Wormwood's already working on the logo, we should get results at any moment. Now we can have lunch.–
-
 
 –Oh, yep. It sounds like a great idea! Last time you tried my suggestion, I guess I want to do the same.–
 
-
 –well, I've never been here, SERENITY suggested this place but that's it. Although the clams look good, they're supposed to serve 2 people, wanna share?–
-
 
 –yeah, they look super tasty. We could share them and then get something else.–
 
-
 –sounds good, clams remind me of good times.–
-
 
 –oh, really. Why is that? It's a good story to share?–
 
-
 –well, after finals in Berkeley my friends and I always went to a nearby place, ate a tonne of clams and drank like the world was ending, then took the party back to the dorm. It was fun!–
-
 
 –that sounds cool! How did you get away with the dorm parties? And didn't you say you went to GWU?–
 
-
 –First I was dating my RA and then I was the RA myself! I've always been a nerd and you know what they say, us freaks and geeks can rule the world. And well, I actually was in both. Minored in data science in Berkeley and majored in Cybersecurity in DC. What about you? Reading files is dry, tell me the fun stuff yourself!–
-
 
 –oh wow! You're brilliant. Well, you know I was in the army, it was kinda cool but not for me. I'm more of a people person so I applied for college, you're not the only one here with two degrees. I was a radiologist before getting into the PA stuff, I couldn't get too crazy in the nukies school with the army paying my tuition but I still had fun. Wanna know what I did first after getting my discharge and enrolling in OHSU?–
 
-
 –oh yep! Just don't tell me you were married!–
-
 
 –nope, not even close! I got a huge tattoo. My best friend there convinced me… of course we ended up being more than friends! But not a formal relationship, still, first girl crush. You know?–
 
-
 –great! I know you know how to let loose! You should totally show me your tattoo. What happened with the girl?–
-
 
 I blush a bit again
 
-
 –well well well, so your little AI didn't tell you? If we weren't in public I may show you… and about the girl, we drifted apart after a while but then I met a guy… and a girl… and another… and you won't get anything else until we crack the case!–
-
 
 –wait what? Where do you have the tattoo? Well at least I'm glad you had fun in college. And SERENITY sees everything but I can't really snoop into her files so I didn't know that.–
 
-
 I blush profusely, again I said too much
-
 
 –oh, sorry! I thought it was in my files. It's… between my breasts. A serpent and a long stemmed rose. And yeah, I had fun. Same as here in wormwood.–
 
-
 –it's ok! Don't worry. I like confidence and you're great at teasing me. You can do that whenever you want. I like you!–
-
 
 Her hand moves to my hair. Maybe I'm right, we could be closer… the waitress arrives and interrupts us.
 
-
 –Hello! Welcome. Can I take your order?–
-
 
 –Oh, Hi! We'll take the clams but please leave the menu here. Zed, you want something to drink?–
 
-
 –yep, I'm in the mood for a Thai lady, but replace the booze with tonic, I have to drive. And you, Hanne?–
-
 
 Her comment makes me blush, she starts twirling her dosimeter between her fingers, she knows exactly what she did.
 
-
 –ohh, tonic! You like to live on the edge. Then I'll take the root beer float. We'll both enjoy diluted poisons.–
-
 
 We both start laughing and I rest a hand on her almost bare shoulder. Her hair tickles between my fingers and she smiles at me. The clams arrive, Zed takes off her gloves and puts them in her purse.
 
-
 –thanks. Zed, please keep my purse, I'll go wash my hands.–
-
 
 –Nah, don't worry. Here, I have decon wipes. I guess you're not allergic to iodine, right?–
 
-
 –oh, nope, don't worry. I have no allergies, just how did you got the wipes?–
-
 
 –These? I always carry them. I lived my teenage years with the threat of the plague, I lost someone close to me to the virus so I guess the fear never went truly away, I just learned to live with it… anyways, they sell them at chemical supplies, I guess I could get you some–
 
-
 –You've been through a lot, I think you need a hug. Those were hard times for everyone so in a way I get you. Here, you can always count on me, I think I like you too, zed.–
-
 
 –thanks. I mean. You already know I'm a hugger, I'm somewhat touch starved… being a secret agent and all of that. You can also count on me, for everything.–
 
-
 She wraps her arm around me and I grab her hand, lightly rubbing it with mine. I want her to know she won't be alone again.
-
 
 She takes a decon wipe and starts expertly rubbing it, she grew up with this and it shows. I do the same and fall back to my training, scrubbing in. Then we start wolfing down the clams, the mood lightens and suddenly we're cracking dirty jokes. The waitress comes back.
 
-
 –Enjoying your food? You'll want anything else?–
-
 
 –yep. I'll have the bacon poutine.–
 
-
 –and I'll have the steak salad.–
 
-
 We get our food and go back to the road.
-
-
 
 
 Hanne Acker apartment
 That night 
 
 
-
-
 I unwind after the day, I'm still thinking about Zed, I feel we really spark together. Does she think the same? I step into the shower and let the hot water fully embrace me. Suddenly my Percept rings.
-
 
 –Hi, Hanne. I'm Zed, how's everything going?–
 
-
 –Fine, relaxing a bit, taking a shower. And you? Is there any news?–
-
 
 –Well, it sounds like I missed an opportunity to make this a video call. I'm checking some stuff about the logo on the key we found–
 
-
 –oh, it's only fair… if you're gonna wander all day in my mind at least put some clothes on. What did you found about our key?–
-
 
 –The key matched something in the trademark database, the logo's registered by a wellness company based in Portland, they have ties to TriEye as part of an employee benefits package and based on the name it looks like tomorrow will be fun… the place is called Blue Lotus LLC.–
 
-
 –do you mean that Blue Lotus? The nude spa by the river.–
-
 
 –exactly that. And the key matches a batch made for the lockers. We need to go undercover again.–
 
-
 –we know which locker does it belong to?–
-
 
 –not really, we have a rack number but that's it, that's why we'll both go. To check all the lockers in the rack.–
 
-
 –welp. Then I'll see you tomorrow… all of you. Is 1030 ok?–
-
 
 –yeah, it's perfect for me, I'll pick you up in the mobile lab just in case we find any more evidence.–
 
-
 –sleep tight, Zed, see you.–
-
 
 –see you, Hanne, enjoy the shower and rest well. I'll do the same, probably thinking of you.–
 
-
 –oh girl! You really know how to push my buttons. Now it's my turn to ask for live feed. Good night–
-
 
 –maybe it's on purpose… and you'll have to wait until tomorrow! Percept out–
 
-
 I finish my shower and catch a side glance at the mirror, I throw on a gown and go to sleep.
-
-
 
 
 Blue Lotus Nude Spa parking lot.
 Next day.
 
 
-
-
 –have you ever been here, Hanne?–
-
 
 –nope. What about you?–
 
-
 –nope, I guess it'll be a first time for both. We're going undercover as clients.–
-
 
 –it'll be fun. Where did you say we'll find the locker?–
 
-
 –I haven't told you. It's in rack 36. That's the relaxation room storage. Oh, and the spa doesn't accept cameras. We'll have to leave our implants here.–
-
 
 –wait what? Then how do they process payments, run vaccination records, all of that?–
 
-
 –they do it in advance, reservation only. Hardcore traditionalists, an unlikely partner for TriEye–
-
 
 We leave our implants in copper mesh bags, I take a pill and we go inside, she booked a reservation with false names.
 
-
 –Welcome to Blue Lotus. Do you have a reservation?–
-
 
 –yes, Melissa Gull and Abigail Crane. We have the full facilities package–
 
-
 –oh! The wedding package. Congrats on your engagement. The locker is the white door on the left. As you know Blue Lotus is a full nude safe space, so you'll need a towel for hygiene. Here, have it, and the complimentary slippers with your visit–
-
 
 –thanks–
 
-
 We walk to the locker room, I can already feel the blood flushing to my face, I probably look like a tomato.
-
 
 –Zed, why did you reserved us a wedding package???–
 
-
 –it's the best way to get full access without external help. Don't worry.–
-
 
 We get a locker and disrobe, I can feel Zed's eyes even if she's trying be respectful.
 
-
 –it's ok, you can look, if we're going in we need to be comfortable around each other.–
-
 
 My eyes wander, the sun isn't a stranger to any part of her skin, her small frame highlights her curves in all the right places and the bare Percept electrodes showcase her eyes, they are exploring too. I see she likes what she sees but stops on my legs with a worried look, I smile and just mouth to her the truth about the scars –old IED blast, don't worry–
 
-
 There's a guy sizing up the place, he looks like a fish out of water. Dark tan all over, full of muscles, a cauliflower ear and most importantly without electrodes or implants scars to soften his brow. I signal to Zed and she just shrugs. Mr. Sunshine leaves for the hot tube.
-
 
 Zed keeps a keyring in her hand and we go to the room, on the speakers there's a slow melody, we step through the curtain to the storage, that's rack 36. it has around 20 lockers, she takes out a key and gives it to me.
 
-
 –here, have a copy, you can check the ones on the right. or prefer the left?–
-
 
 –the right is ok lets see who finds the right one.–
 
-
 –oh, come on, im in the mood for a little game. whoever finds the right one wins.–
-
 
 –ohh, i like it… and what will i win? because i think i will.–
 
-
 –what if the loser has to dance for the winner… like we are dressed now. what do you say, are you in?–
-
 
 –either way I win… I'm in!–
 
-
 I start checking the locks, she does the same and a few minutes after that two things happen at the same time.
-
 
 One of the lockers opens with Zed's key and a shrill alarm starts blaring.
 
-
 The man is here again and after us. Zed grabs the contents of the locker. I slam the door. We run to the locker room again.
-
 
 –quick, get dressed, I don't think we lost him.–
 
-
 We do and dash to the truck. Zed puts the stolen contents in a drawer.
-
 
 –fuck! Zed, be careful, he's here.–
 
-
 My heart was racing as Sedna hit the gas pedal and our truck whirred down the street.
-
 
 –What the hell just happened?– I gasped, trying to catch my breath.
 
-
 Zed's eyes were focused on the road ahead as she weaved through the sparse traffic.
-
 
 –I don't know, but we need to get out of here.–
 
-
 Suddenly, I saw the car in my rearview mirror, rapidly closing the distance between us.
-
 
 –Sedna, he's back!–
 
-
 –I see him, hold on tight.–
-
 
 We were going too fast to see the street signs whizzing by, but I trusted her instincts as she drove us out of the city. Suddenly a barrage of gunshots rang, this fucker is shooting at us through his windshield.
 
-
 –Zed, we're under attack! Will this stand?–
-
 
 –The truck is armored! But it isn't invincible.–
 
-
 I eye my ring and remember 
-
 
 –The beacon! Can't we call for backup?–
 
-
 Sedna shook her head.
-
 
 –Not yet. We need to lose him first.–
 
-
 –he's got an Uzi, this won't last long!–
-
 
 We continued to race through the streets, he's reloading, our car careening around corners and narrowly avoiding collisions. I take my gun to the back and kick open the door. The wind is deafening.
 
-
 –Zed, I got this, take us to safety.–
-
 
 –Come back here! I don't want you to get hurt.–
 
-
 –girl, this isn't my first rodeo. I'll keep you safe.–
-
 
 –please just be careful…–  a hail of bullets interrupts her, he missed but it was dumb luck. I need to take this guy out, I haven't lost a partner and I sure as hell won't start today
 
-
 The training kicks in, I shoot at the car. He finishes reloading, I slam the door just in time.
-
 
 Zed blasts through the city, while the truck gets pelted with more bullets. I kick open the door and shoot again, one of his tires explode but he keeps going. We get to the highway, we can shake him off easier here.
 
-
 –Hanne, get to the computer, I have an idea!–
-
 
 –what? You're the techie here, I can't hack the car.–
 
-
 –no no no, you only have to scan it, we have the first responders guidelines in the database but you need the make and model.–
-
 
 –ok, I got it! Priority pass for ambulances, a radio signal can bring the car to a safe stop to let emergency vehicles pass–
 
-
 –no, we don't have the spoofer here, try something else–
-
 
 –police pursuit governor. The vehicle will stop when the collision avoidance sensors detect a specific infrared pattern.–
 
-
 –keep reading, it's not like I'm hiding an infrared transceiver in my undies!–
-
 
 –well, I could help you double check.–
 
-
 –yes, I mean no! Not now! There should be something else, we need the guy alive.–
-
 
 –ok ok, here it is. Emergency safety disengage. Rescue teams can cut a wire at the front and it'll cut the current from the batteries to the car. I'll try to shoot it, already downloaded the diagram to my implant.–
 
-
 –Hanne, please keep yourself safe. I like you.–
-
 
 I change my gun magazine, armour piercing rounds. I open the door…
 
-
 –Fuck me!–
-
 
 –I've been wanting to do that for a while!–
 
-
 –nonono, Zed, he's got a grenade launcher.–
-
 
 –damn. Hold tight, hon… Hanne!–
 
-
 I slam the door, Zed swerves and a grenade zips by, it hits a tree but I can feel the explosion in my chest.
-
 
 I drop to the floor and ready my gun, the door's open again. I can do it. The diagram is projected from my implants. Relax, aim, finger on the trigger, inhale, exhale, pause… 3 rounds explode from my gun, the car sparks and halts.
 
-
 The guy opens a canister, he's trapped but wants to take us with him. A warning flashes in my Percept "Beehive grenade detected. Mobile laboratory breach: expected".
-
 
 Zed jumps out of the truck. He grabs his gun, a string of bullets sweeps the place, I return fire until my gun clicks empty.
 
-
 –Hanne, cover me. I'm hit!–
-
 
 –I ran out of ammo, where's the rest?–
 
-
 –forget the gun, get Ma Deuce, under the trapdoor.–
-
 
 I get the machine gun and throw the door open, the guy is still there, grenade launcher ready. I squeeze the trigger, the car explodes. I run to Zed, she's bleeding.
 
-
 –Zed, Zed, I'm here, let me see… don't worry, it just grazed but you're bleeding a lot, I need to stop it, let me check the truck, is there a first aid kit?–
-
 
 –please Hanne, don't go. There's a trauma kit in the glovebox but don't leave me.–
 
-
 –it's ok. I'm here, I won't ever leave you, it'll just take a minute. I'll be with you.–
-
 
 I run to the truck and take out a box with a red cross, pop it open.
 
-
 –Zed, I'm back, I'll need to apply pressure. It will hurt like a bitch but I need you to pull through. I'm here with you.–
-
 
 I grab a shrink dressing and apply it to the wound, I press the chemipack and it goes rigid pressing against her. She is in obvious pain, I find a small package, fentanyl strips. I push my ring and the emergency beacon goes off.
 
-
 –take this, it will help with the pain. It's ok if you fall asleep.–
-
 
 –Thanks, Hanne… I want you there when I wake up. You're special…– her speech becomes slurred by the drug and it acts like a truth serum, she's speaking her heart's content.
 
-
 –I'll be there, Zed. You'll be ok, I… I love you, I think.–
-
 
 She smiles a little bit. I take out a pen-like device, ultrasound CT. I need to check for damage and press it on top of her wound. There's no major damage but a small vein was nicked, her blood pressure is dropping. I hug her and wait for help. A helicopter arrives and two people in tactical gear fast rope to us.
 
-
 –this is Commander Atkins, over there is Agent Lewis. Are you ok?–
-
 
 –this is Hanne Acker and she's Sedna Lutece, we got involved in a shootout. The threat was neutralised but we couldn't get any intel. Sedna has been shot, a graze to the arm, no damage to anatomical structures but she presented severe bleeding and is now stable, she received a SmartDose pain relief strip but needs transport–
 
-
 –Thanks, Mrs Acker, any intel on the shooter?–
-
 
 The helicopter lands and they put Zed on a stretcher, it goes back inside.
 
-
 –no, he died. But there's evidence related to the TriEye murders in the truck.–
-
 
 –ok. Forensics are on the way. You could stay.–
 
-
 –negative, commander. I'm going with Zed. You'll get my debrief afterwards–
-
 
 I hop to the helicopter and grab Zed's hand. She's slammed but conscious.
 
-
 –I think I love you too…– she whispers. We take off.
-
-
 
 
 Wormwood Foundation Secure Medical Center.
 Next morning.
 
 
-
-
 –Hi, Zed, are you feeling any better?–
-
 
 –Oh, hello. I was starting to miss you. I have good news!–
 
-
 –great. Tell me!–
-
 
 –I'll get discharged today. The phage prophylaxis went well.–
 
-
 –that's cool. So, can I help you with anything?–
-
 
 –yeah, my implant and a kiss. We need to know what did forensics found out–
 
-
 –I can only help with one of those but you need rest. I'll take you home when you're ready.–
-
 
 –no no, really, I'm feeling good. I'll get back to work as soon as possible. Hanne, can I ask you something?–
 
-
 –i can't let you do that. Please, let me help you. Sure, what do you want to know?–
-
 
 –ok, but just for a bit, you know I love my job. And talking about things I love… back in the field you said something. Do you really feel that way?–
 
-
 –you remember? Yes, it is true. I love you! I've never felt this way before and I decided I don't want to hide it.–
-
 
 –oh thanks God! I've been feeling the same way. You're an amazing woman.–
 
-
 –Thanks, sweet, just like you. What do you think? Are we kind of something now?–
-
 
 –of course we are! Whatever you want to call it it's ok with me as long as we're together.–
 
-
 A doctor came into the room, she's pushing a cart.
-
 
 –good morning, Mrs. Lutece, you're free to go home whenever you want. Just let me take off your IV line… ok, change your dressing twice a day and keep it dry, if you have fever or the wound hurts more than usual or reddens come back. You were lucky to have Mrs Acker with you.–
 
-
 –trust me, I'm always lucky to have Hanne by my side. Thank you. Any idea when can I go back to work?–
-
 
 –as soon as you're comfortable but I'd prefer if you took at least a day in case there's any pain, also to clear your head.–
 
-
 I help Zed put on her jacket and give her a small peck on the cheek. The drugs have cleared and she's back to normal, handling herself like she owned the place, her confidence melts me and she probably knows it.
-
 
 –Honey, can you come home with me? I won't go to work tomorrow and I'm not in the mood for being alone.–
 
-
 I pop a pill and hand her her implant.
-
 
 –yes! I guess I could spoil you a little, here's your implant, by the way. Forensics took the truck and they need to change the armour and fix some scratches from where we propped the Browning but I already ordered a cab–
 
-
 –thanks. I sent my address to your implant. You're welcome there anytime you want.–
-
-
 
 
 Sedna Lutece apartment
 The next morning.
 
 
-
-
 –wakey wakey, sweety–
-
 
 I open my eyes and feel Zed's lips on mine, they're soft and warm, I can feel them parting slightly as her tongue slides shyly into my mouth. I caress her waist with my hands and she wraps around me, the silky smoothness of our gowns is the only thing between us. Her breathing's becoming faster and deeper. The window clears and sunshine peers through her short hair caressing my face. I haven't felt so alive in a while as lust keeps flaming inside me. It feels like we can power a whole country.
 
-
 My hands roam all over her as the kiss gets deeper.
-
 
 –could I help you out of this?– I pull back, grabbing her clothes.
 
-
 –please! I want to feel you–
-
 
 –if you want it you'll do much more–
 
-
 Our lips go back together and I pull her pajamas above her head, she tries to do the same for me.
-
 
 –no, Zed, let me do it. Your arm–
 
-
 –it's ok, just shut off the window, the spy satellites shouldn't see what I'm going to do to you– she says between small quick kisses.
-
 
 She pulls me closer and we kiss again, deeper this time. She tastes warm and electrifying and I can't get enough of her. My lips wander downward, towards her neck, I start nibbling, she's squirming. Her soft fingertips climb to my breasts, she's circling my nipples, making them stand at attention, teasing and feeling, like an expert safecracker.
 
-
 I wrap my legs around her hips and feel myself opening up, my mouth goes to her nipple while my hand works on the other. She starts bouncing a little, grinding her body against my slit. I let out a gasp right against her but keep kissing and licking. I feel her nipple stiffen under my tongue, I suck a bit, savouring the voltage of her skin, her breath goes faster. I pull back a little, twirling her hair
-
 
 –ah! Hmm, Hanne. You feel so good. You feel how turned on I am?–
 
-
 –Just like me, and this is all for you! I… I want more.–
-
 
 –You have no idea. I… hmmm, oh, I've been picturing this… since Hanford.–
 
-
 –oh… I'm, uhm, I'm glad I'm not the only one… yes! I couldn't take my eyes off of you, hmm, back then in Blue Lotus, I love your body!–
-
 
 –and I love you, Hanne–
 
-
 She starts kissing my neck, I'm shivering. I want her. I start to slowly walk my fingertips downwards, teasing her wet landing strip.
-
 
 I feel her breathing in my neck grow faster while I circle her clit. I'm lucky to be here… to be with her.
 
-
 –Zed, I love you. I want to taste you–
-
 
 –ahh. Yes! You're driving me crazy.–
 
-
 I kiss her again and get down between her legs, kissing her thighs. She shivers slightly knowing what's about to happen.
-
 
 –fuck. I wouldn't mind getting used to this sight. You have no idea how good you taste–I said and kissed her, barely touching her clit.
 
-
 –you can come back whenever, sweety.–
-
 
 I slowly started to taste her, exploring her folds with my tongue, pressing her nub with my lips. She clenched her fists around the blanket as if her life depended on it and a small symphony of pleasure escaped her lips, it grew stronger as I fucked her until she was moaning with the strength of an air raid siren. Her wetness only fuels my arousal, I can't get enough of how good she tastes, I know it's coming. She's flooding my senses.
 
-
 –oh ahhh, fuck! Fuck. Yes. Just like that. Holy shit, yeah, I’m getting close. Oh, I’m getting close. Fuck. Please, don’t stop, don’t stop, don’t stop… You're gonna make me cum so hard…–
-
 
 Zed's rambling like the world was ending, she is dancing in place, clearly about to explode. Shit, I'm about to burst too and nothing is even touching me yet! She goes off like an atomic bomb, spasming and squirming against my face while gasping for air loudly at high speeds.
 
-
 Her juices flow down me and her fragance floods my brain. I look up and feel this intense sense of pride and happiness seeing the orgasmic look on Zed's beautiful face, she's slowly coming back from her high and smiling.
-
 
 ––oh damn, sweety. I haven't been fucked like that in years. I needed it–
 
-
 –oh yes? And how's that, babe?– I tease her, catching my breath.–
-
 
 –the best I've ever had. I wouldn't mind doing this everyday. But now, Hanne, I need to make you feel good. Come here, I want to taste you–
 
-
 I lined up myself under her, wrapping my legs around her head. I can feel her breath against my damp mound, teasing my hair while she's slowly getting closer.
-
 
 –Have I told you how fucking hot you are, babe?–
 
-
 –Just all the time, honey, I love your voice against my pubes. I love you.–
-
 
 She rested her tongue against me, sending shivers all the way to my brain. I know I'm wet enough to float a battleship and her little kisses closer and closer to my nub are helping it.
 
-
 –You are such a tasty woman– she says in her best East German accent.
-
 
 –what was that, love?– I say trying to stifle a laugh between my panting.
 
-
 –you thought I was a spy handler, now can I have a little cold war fun?– she giggles, her breath teasing me.
-
 
 –ohh, are you gonna fuck the nuclear codes out of me?– I answer in a British impersonation.
 
-
 –maybe I should… you are hotter than plutonium after all, babe– the accent comes back
-
 
 She starts again, tracing my folds with her tongue as if mapping them, I feel her slip inside. I shiver, she keeps going, she knows exactly what to do, answering every twitch and quiver as if my body spoke… No, as if my sex was plugged to her mind, an input she decodes instinctively.
 
-
 –You make me feel so fucking good, pretty girl–
-
 
 ––I've just started. I want you to melt in my arms when we're done–
 
-
 –oh fuck! Again the spy accent. I never knew that does it for me–
-
 
 –so you're ready to launch? Or should I try with this key–
 
-
 She stifles a giggle and presses her lips against my clit, scanning it with her tongue and a little sucking. I squirm, her voltage traveling through my body.
-
 
 –Oooh, I love the way you’re shaking for me. Just let yourself flow–
 
-
 I give the accent another shot –babe, I'm an open book for you–
-
 
 –shh, it's another code I want… the one for your floodgates–
 
-
 Her sucking intensified. My clit sticks out like an antenna and she's connected to it. I can feel myself get closer. She's sending pure bliss through my body and I lose control over my movements.
-
 
 –ah, please, please, please, please, pleaaaase!–
 
-
 My hips raise on their own. A thunderstorm is brewing. Almost there. I'm shaking, my heart pounding.
-
 
 I let go and ride the bomb until climax hits me like a runaway train. I stay at the peak for what feels like eternity. She rolls over to catch her breath while I come back to earth. My legs feel like static on a radio. I offer Zed a hand and she rests her head on my chest while I play with her hair.
 
-
 –That was amazing, Zed. I love how you make me feel.–
-
 
 –yeah, babe. You're awesome at making me feel good. I'm hearing your heartbeat under my head. I want to stay here forever.–
 
-
 –I love you honey. You have no idea how beautiful you look all cute and flustered on top of me–
-
 
 –I love you too babe, here in your arms everything feels right in the world.–
 
-
 –yep. I feel so safe with you. No matter how fucked the world gets–
-
 
 Her lips meet mine again. I kiss her back.
 
-
 –you see how good you taste, Hanne? I'd love to do this everyday–
-
 
 –I want to spend all my life with you, sweety. It's the first time I've tried that–
 
-
 –thanks, love. I'm sure we will. Anyways, ready for breakfast?–
-
 
 –yes. Stay here in bed, Zed, I want to spoil you, just pass my implants please.–
 
-
 –nah, don't worry. Serenity ordered something for us. I just want to take a shower, wanna come with me?–
-
 
 I reach for a glass of water and take a pill before cuddling her again.
 
-
 –oh, Serenity. That's curious, you're kinda too close to her. Right? And yes. Anything to spend more nudie time with you, but what about your wound?–
-
 
 –we can stay naked the whole day today if you want, honey. Don't worry, I have to change my dressing anyway. And I think there's something I haven't told you about her… it's time you know that.–
 
-
 –I'd love it. I'm not a fan of wearing clothes… wait what? What's your big Serenity secret? Don't tell me you've been banging the machine– I say stifling a laugh.
-
 
 –Ok, Hanne, I've done it a few times. It's not a coincidence that I call her She and let me tell you I'd love you to try her someday. But it wasn't that, my secret is that Serenity doesn't fully belong to the foundation. When I said she's my brainchild I mean I built her, almost totally on my own. That's why Wormwood took me but I didn't hand her off just like that, I can get full unrestricted access, I could show you someday.–
 
-
 –does Wormwood know about this? I mean, the backdoor. Not the fact that you're using her to get off–
-
 
 –It's not a backdoor, they knew since the beginning, my only condition was to keep God Mode. They accepted and it added redundancy since my cluster is in a safe place independent from the foundation… an abandoned hospital I yoinked and repurposed as a server farm… And I'm not using Serenity to get off, she's closer to apotheosis than to me! If anything she'd use me… Ok ok, we're friends with benefits. I guess that'll have to stop now we're together, sweety–
 
-
 –your own server farm? Just how much money do you have? And don't worry, it's not like I'd get jealous of an artificial superintelligence! I just want to participate in the fun with your machine god–
-
 
 –oh, well, if you want she can join us next time, I'm sure you'll have fun. I'm not rich, my aunt was but I was never on good terms with her. She was always putting me down and trying to make it look like everything was my fault, I estranged her and years later she died. She gave me her fucking hospital, maybe to buy out my compassion but it was a sinking ship anyways, it got hit by Tainted Souls and went bankrupt. Wanna take a guess on what I did?–
 
-
 –with you one can never be sure! What did you do? And yeah, I'd love it. Tell her I want to try–
-
 
 –nothing, left it to rot until I started working on SERENITY, then I sold almost everything that wasn't bolted to the ground and cleared auction sites for anything with good computing power. I spent all my evenings building my machine, then uploaded and trained her, I taught her to think and improve herself, to scour the world for information and finally I trained her to care, then I became her interface and that's when Wormwood called.–
 
-
 –oh well, I can see why you chose to keep a tether, it's almost as if you raised her, honey.–
-
 
 –well, not really. She learns better and faster than us, she never made our same mistakes… but also the hospital is a cool place to hide from the world. When it gets cold her servers keep it toasty and I can just stroll around wearing just panties and fall asleep to her hum. That's actually how we started shagging, she wanted me to try something and learned how to push my buttons better than myself. Trust me, I'd love you to try it.–
 
-
 –and we will, sweety. There's a lot of things I want to do with you. I love how you make the wildest places sound cozy… but now we need to shower before the food arrives, you wouldn't want to be late for your other girlfriend's delivery, right?–
-
-
 
 
 Wormwood Foundation PNW division, Seattle, WA.
 2 days later.
 
 
-
-
 We got back to work, there was a man in a suit waiting for us. Zed immediately recognised him.
-
 
 –Director Beckett. What brings you here today?–
 
-
 –Hello, Mrs Lutece. I hope your arm's better. We intercepted the presidential intelligence briefing today. They mentioned the TriEye murders. Today the NRC, FBI, EPA and DOD will create a joint taskforce to investigate. Augmentation lobbyists will push for an scapegoat and an exemplary punishment, we fear a declaration of war–
-
 
 –oh God. We have to stop them. I guess Fire Suppression will take care of the taskforce?–
 
-
 –yes. But we need to crack the case before they can act. I need you to stay here, you'll be a voice with an internet connection, besides, it's safer that way–
-
 
 –ok, sir. I'll support them from here. Is Hanne staying too?–
 
-
 –not really. She saw the damage, I'd prefer her in the field. But you'll be her mission control–
-
 
 Director Beckett shook our hands and left. Zed started to get ready to work.
 
-
 –I think this will be the best for both, Hanne. Just please be really careful, I love you–
-
 
 –I will, Zed, if you need anything about your arm just tell me. I love you too–
 
-
 –oh, don't worry about me, actually I normally use this thingy. I told you I take care of my hands–
-
 
 She blushes and gets some weird joystick with a few keys on it and a very suggestive shape.
 
-
 –and that is…?–
-
 
 –chorded joystick, it's a one handed keyboard and pointing device, all in one.–
 
-
 I'm about to kiss her goodbye and go check the lab but she grabs me.
-
 
 –sweety, can you help me with this? I can't really put it on myself, it's a throat microphone. Can you adjust it to my neck?–
 
-
 –sure! I just thought you'd use the mics in the implant.–
-
 
 –nah, I always wear this, that way I can talk in near silence, I also like the nostalgia even if it's not from my time. Ok, just put it around my neck and tighten–
 
-
 I do as she said, moving her short hair out of the way and then fastening the strap. Suddenly she whispers practically in my ear.
-
 
 –don't choke me, I'll cum!–
 
-
 I stood like a deer in headlights. It is my God-given mission to tease her. She went redder than I thought possible, she wasn't planning to say it.
-
 
 –oh wow, you're always on such a hair trigger. I'll take advantage of that tonight–
 
-
 –I'd love it. And I'd love to return the favour… but now go, the world needs you!–
-
 
 I give her a quick kiss and take a pill, then go to the lab; a mousy girl in a lab coat greets me so enthusiastically I almost don't notice her bench looks like several tiny tornadoes have been hitting it nonstop for a while. She's the personification of a chaos goddess the fates threw to science. She takes off a glove, flinging it to the trash can and shakes my hand.
 
-
 –Hi! You must be Hanne. I'm Lauren, from forensics!–
-
 
 –Oh, Hi, Lauren, nice to meet you. You told me to come here today.–
 
-
 –yes, I wanted you to know the locker contents scan and ballistics are ready. I just didn't call you since I think you should rest. I heard about Zed and figured you'd be taking care of her–
-
 
 –rest? It was 3 in the morning! Thanks, I guess the news travels fast! She's better but still not ready to be in the field. Anyways, what did you find–
 
-
 –oh, that's good, but I meant about you two… it's pretty obvious she likes you. The bullets we recovered are all 9mm, but these two caught my eye–
-
 
 I follow her to a microscope. I wonder how she knew about us but I wouldn't be surprised if she was just wired enough to read minds. I chuckle and ignore that thought.
 
-
 –You see that wear pattern? It looks like someone shaved the bullet, right?–
-
 
 –oh, yes, I haven't seen something like that. What caused it?–
 
-
 –it's a self sharpening projectile, depleted uranium, only one company makes them and only for a single customer, Argent Alliance.–
-
 
 –should they ring a bell?–
 
-
 –not really, except for the fact that they're hired by TriEye to run all their security. We recovered DNA but there's no match in any database, we also didn't recover Percept electrodes. This man was a ghost.–
-
 
 –yes, Lauren, we saw him, he had no implants, he was sizing up the place before chasing us guns ablazing–
 
-
 –and that's where little cute me saves the day. I recognised that. Argent Alliance hires these guys for what they call "damage control". They're tasked with stopping saboteurs and corporate spies for their biggest clients, if I had to guess he was waiting for someone to open the locker–
-
 
 –yeah, the door was hooked to an alarm. Was it his cue?–
 
-
 ––nope, that was the original owner's. We also found a flyer for a restaurant called "Essential Ivy". It belongs to a former TriEye employee, Michael Teller.–
-
 
 –how do we know he is our poisoner?–
 
-
 –I was hoping you asked that. This guy worked in embedded neural UX at TriEye until he quit after a stroke caused by burnout. Then he fell off the face of the earth, the only records we have on him are related to the restaurant. Also there's some indentation marks on the paper, calculations for radioactive isotope absorption –
-
 
 –Thanks! It's time to light a fire under his ass!–
 
-
 –I knew you'd say that. There's a tactical team waiting for you to go–
-
 
 –ok, lauren, see you!–
 
-
 I look back at Lauren and only see her coattails flying down the hallway as a timer beeps in the next room. I get to the exit after popping a pill, put on my riot gear and board an APC disguised as a firetruck.
-
 
 The tactical team is around 10 folks of no discernible gender, they're all wearing gas masks and optics, the ride is the bumpiest I've had since the war and we're hitting every pothole in the city.
 
-
 –epsilon-5 here, we're almost there. Comms test– one of them speaks into the radio, their voice completely unrecognizable. Everyone answers.
-
 
 –ok, epsilon-5 mission control here. You have Geiger counters, use them. If anything is sus just abandon the place– Zed cracked through the radio.
 
-
 We arrived to a service entrance, one of us breaks down the door with a battering ram and we all get inside.
-
 
 –clear! Checking upstairs–
 
-
 –clear! Suspect isn't here–
-
 
 –mission control here. Turn on your geigers, we need to find evidence–
 
-
 We start scanning the place, the meters scream like a banshee.
-
 
 –Misson Control, the place is irradiated to hell. We have at most 15 minutes for the yearly allowed dose– I speak into my mic
 
-
 –epsilon-5, you listened. Grab and go!–
-
 
 –I need help here, this door is locked–
 
-
 –gotcha, breaching charge ready!–
-
 
 My face goes white. The radio springs to life at the same time I start screaming, it's as if Zed was reading my mind.
 
-
 –Negative! We can't use explosives here. Go and take the fucking battering ram if you want to open it but not like that!– my voice comes out distorted by the comms setup
-
 
 –Epsilon-5 do as they say. If there's radioactive material and you blow it up this place will end up a superfund site.– Zed shouts in our ears
 
-
 –give me a fibrescope, we'll take a peek before entering.–
-
 
 I grab the fibrescope and insert it under the door, there's a small workbench and lots of leaded vials on it.
 
-
 –ok, there's a lot of chemicals there, just be careful–
-
 
 –pick gun please–
 
-
 One of the folks inserted a vibrating pick in the lock and effortlessly opened it. The Geiger counters scream and Zed speaks again from the radio.
-
 
 –ten minutes for yearly allowed dose. You need to get out fast!–
 
-
 –Mission Control, it looks like he was running tests here. There's some nuclear medicine vials and syringe shields. Serial numbers match stolen supplies–
-
 
 Then only my implant speaks, Zed's voice is shaking.
 
-
 –please, sweetie, don't touch anything. I need you out of there. Get them back to safety. I love you–
-
 
 –don't worry, love, it isn't dangerous yet. But it's ok, we'll leave– I whisper
 
-
 –Ok, guys! We found our proof, time to get the hell out of here, hazmat will take it from here–
-
 
 We left the restaurant and scanned each other for radiation. We're all clear.
 
-
 –Epsilon-5, are you all ok? Mission Control here. I found something else about our suspect. He was seen by CCTV entering a house not far from where you are, this happened every day for the last 2 years. The camera went offline a month ago. I sent you the address.–
-
-
 
 
 Michael Teller house
@@ -1991,204 +1338,137 @@ Michael Teller house
 
 –Mission Control here, set your badges to access mode, you're going in as NRC, good luck!–
 
-
 We're about to enter when a bullhorn interrupts us, we freeze.
-
 
 –don't you dare! The place is wired with bombs. If you come any closer we'll all blow!–
 
-
 –Sir, this is the NRC. We only want to talk– one of us replied from the truck loudspeaker.
-
 
 I speak to Zed through the radio
 
-
 –Hey, sweety. He's barricaded and threatening an explosion. Do you have any other idea?–
-
 
 –Hmm, let me see, maybe we can get image from the inside. A Great White Bat will join you soon.–
 
-
 –ok, guys, mission control has eyes in the sky, just wait for instructions–
-
 
 The drone arrived with a faint buzzing sound, almost imperceptible, a few seconds later a live radar feed appeared in front of our eyes.
 
-
 –he's alone, I see several drums connected with bundles of cables. He wasn't bluffing– I say to no one in particular.
-
 
 –Mission control here, you know what to do. Epsilon-5 A and C, to the rooftop and get ready to take the shot. I'm getting him on the phone Everyone else wait.–
 
-
 –Mr. Teller we need to talk, please pick up the phone– The folk in the bullhorn speaks again
-
 
 –it's Doctor Teller for you! –
 
-
 His phone rings for a good minute before he answers, Zed is routing the audio through our implants
-
 
 –You'll never gonna take me alive. I know you're with the company. But you won't screw me again, this is where it all ends!– Dr. Teller screams at the phone, his voice shaking.
 
-
 –No, no, we're not TriEye…–
-
 
 –I know!!! I'm not an idiot, you're Argent Alliance, TriEye would never get their hands dirty–
 
-
 –Doctor, we're independent of all those corporations. We'd like to help you learn to help yourself, show you there's another way. Please come out–
-
 
 –oh no! I'm not going out so you can throw me in a black site. If you want to talk you'll need to come under my terms–
 
-
 –it's ok, Doctor, agents will go inside and take you to safety.–
-
 
 –No agents! Don't do anything stupid or we'll both be sorry–
 
-
 I have an idea and grab the bullhorn microphone, taking a deep breath I try to defuse this.
-
 
 –Doctor Teller. I'm a medic, not an agent. If you want it I'll go in by myself–
 
-
 –fine! But no funny businesses or this place will make Chernobyl look like Times Square. And no guns!–
-
 
 I take a deep breath, my mind racing as I take off my holster. I'm really doing this. I get to the truck and pop a pill, there's now way I'm risking migraine now. Suddenly Zed's voice whispers through my implants.
 
-
 –it's ok, sweetie. You've got this, SERENITY and I are both here. You're not alone, just please keep yourself safe, right?–
-
 
 –I will, honey. Don't worry. It's alright, I love you–
 
-
 –I love you too. Go, make me even prouder–
-
 
 Dry leaves crack under my boots, the few meters to the door feel like a mile and I steady myself before knocking.
 
-
 –Doctor Teller! I'm going in–
-
 
 The door opens and I scuttle inside the house. There's an office chair in front of the door, Doctor Teller is slouched on it, He's wearing a gray tweed suit and tanker boots, holding a Magnum BFR in one hand, aimed straight at the door; the other hovering over a button resting atop his legs. A trimmed beard, as red as the last wisps of hair on his head and the bare electrodes of his implants he hasn't used in years mark his face, however what catches my eye is his gaze. His right pupil is permanently dilated hiding his deep hazel iris.
 
-
 –come here, sit. You said you wanted to talk– he followed me with his gun.
-
 
 I do as he says.
 
-
 –so? Why did the company sent you–
-
 
 –Sir, we're not with…–
 
-
 –Argent, TriEye, the government. It's all the same. Corporations have the feds by the tits! Really. Either they bought them or convinced the world they need them. Few people would sacrifice comfort for the greater good!–
-
 
 –is… is that why you did this? Corporate overreach–
 
-
 –in a way… I mean, I guess we learned nothing from history's mistakes. A while ago a flag maker convinced schools to indoctrinate children so they could sell more flags. Later a soda empire swindled a guy out of a fighter plane, feds swept it under the rugs. Social media changed the course of history, playing chess with politicians, bartering with everyone's lives. You should remember the 'rona; They allowed snake oil peddlers and self proclaimed free thinkers to disregard science and common sense, millions died. You know the story… that's why I don't trust you.–
-
 
 –I think I understand you, doctor. You were trying to make the world a better place, but there are other ways! These people… you know how they suffered–
 
-
 –oh, so one percenters are the only ones who can ruin lives? When your scholar-industrial complex lures innocent people to squeeze and discard like oranges nobody says anything… that's exactly why I acted the way I did. Recent history shows the path. the only thing your kind fear is radiation! you can do whatever you want as long as you have a button to back it. That's why war raged for years in eastern europe, why an asian dictatorship is about to turn 100, why i´m still talking with you instead of painting the ceiling with my guts. Fear of the atom. I'm the first one to use it for the people –
-
 
 I can't talk over this madman, instead my eyes scurry over a virtual keyboard. “Mission Control…  Tell me you've got something. We´re about to have a bad case of the what-the-fuckies”. A few seconds after it a new menu hovered in front of my eyes “SERENITY engagement and natural language processing.” my earpiece crackles to life
 
-
 –I got our mutual friend on the case, she will guide you. don't worry. you're doing great, sweetie. Make him talk about his story–
-
 
 –so, doctor Teller, that scholar-industrial complex. we know it wronged you. I feel it hurt us all, what happened to you?–
 
-
 –Look into my eyes! I gave it all for them. My youth, my time, my health. All my life everyone told me to shoot for the stars and I did.–
-
 
 –I can't say I don't get it, but you had it all… why this?–
 
-
 –TriEye was my moonshot! Computer science, neuroscience, bioelectronics, embedded neural interfaces security. That was my life for 31 years. No parties, no sex, no time. Just deadline after deadline after deadline and what for? Corporate bullshit just because my daddy's not the president! They said I was fit for the feds but I never wanted to sell my soul to DC like y'all did. Take a fucking guess to what happened when TriEye finally looked my way?–
-
 
 –I don't know, doctor, please just keep going, maybe we can help–
 
-
 –no, you can't. I know I flew too close to the sun. Argent was always tailing me, they did it to everyone. Signed away my ideas and got a promotion out of it… information should be free. But it isn't and I was it's jailor. Have you ever heard about Project TriggerShield?–
-
 
 –No. Not really… can you fill me in?–
 
-
 –TriggerShield was a filter. One to remove traumatic concepts before reaching the user… at least that's what the corporate tolds us. They wanted to block PTSD triggers from the implant… a noble goal that ended up being the theft of the century. I worked day and night on it until my body crashed. I got a stroke, spent a whole day locked in while doctors tried to save me… the best money can buy. Got CT, PICC, MRI, TPA, the whole alphabet soup… it wasn't even two months before they wanted me back. my eye never recovered and with no way to regulate light it deteriorated, it was the last thing TriEye ever took from me. I quit but they still made me finish with TriggerShield before. Something about a high level sabotage clause.–
-
 
 –oh, I'm so sorry–
 
-
 –that's not the worst. I knew I was a sinking ship, I had to take a hard decision and left the love of my life behind… Caroline is the only reason I didn't make a superfund site out of TriEye campus… even with history on my side I can't get myself to hurt her. I fear the day they do the same to her. She already had an accident, fell asleep at the wheel after pulling an all nighter for her finals. Still needs a crutch after 15 years–
-
 
 –so this was for her? All this death and destruction?–
 
-
 –No! Don't you dare blame her! I bottled my rate for her, opened a restaurant, lived a simple life always thinking on getting her back–
-
 
 He stands up and starts pacing around the place, his gun fixed on me, a finger over the button.
 
-
 –I started this just a month ago! I overheard something from a former colleague, they wanted to abuse TriggerShield. Something about a feature demand from the WIPO, you know the jailors. Speak softly and carry a big stick–
-
 
 My face goes white with the revelation, I go back to Dave Carlson. Serenity says to go from there.
 
-
 –The WIPO? Is that what Dave Carlson was doing? I'm not sure if I follow, Doctor.–
-
 
 –You talked to him? I'm guessing he didn't tell you what he was pushing for. You see how TriggerShield can block stuff from perception? Well, they wanted to use it to cover their corporate asses! A copyright filter right before our eyes!–
 
-
 My eyes run over the virtual keyboard again. –Honey, you heard him. Give me everything you have on TriggerShield.–
-
 
 –So that's why the WIPO got involved? They wanted to block more than just trauma.–
 
-
 –They wanted to take fiction away from us! Humanity has always been a race of creatives, thinkers and tinkerers. Cutting us access, giving it all to the corporates would be against our very nature.–
-
 
 –i can't say I disagree, Doctor. they wouldn't act so you decided you would. Come on, drop that weapon, there's still time to make this right.
 
-
 –and how would you do that? You think you'll change the system from within? Let me tell you how that works… it doesn't! But if this whole damn city becomes a wasteland they won't ignore it anymore.–
-
 
 –Doctor, there's more in this place than just TriEye. Think about them. You mentioned you once had someone. Do you really think she'd want this? You still have a chance, there must be another way–
 
-
 –Oh, but I thought of everything. Caroline isn't here. I know they sent her to Manhattan, something about the stock market. She'd come back to a dead city but it's better than leaving the company hurt her. As I said, I'd never hurt her.–
 
-
 Inside my implants SERENITY weaves a net of probabilities. My eyes scan the possible outcomes.
-
 
 * Asset Activation: 95.0%
    * Broken Veil scenario: 99.8%
@@ -2200,117 +1480,79 @@ Inside my implants SERENITY weaves a net of probabilities. My eyes scan the poss
    * Global thermonuclear war: 1.4%
 I type a message to Zed, trying to ignore the numbers.
 
-
 –Is your god-with-benefits always this optimistic? No pressure, but she could improve her motivation routines–
-
 
 –sorry, sweetie, she just thinks you needed to know… she thinks you should tell him the truth–
 
-
 I sigh and offer the doctor a deal.
-
 
 –listen, I can help you keep her safe from harm. Truth be told I'm not with the NRC, I'm part of an organization tasked with keeping humanity and earth safe from ourselves. We agree with you in principle, creative freedom is vital for humanity, they stole our voices… but this isn't the way to do it. I know what it's like to love someone, there's someone in the Foundation, we sparked and I'd give my life for her but not like this! Please, we have the technology, the political power to fix it, you just need to come with your hands above your head–
 
-
 –so a private intelligence agency? I thought I said no corporations! I know what you'll do. Make a martyr out of me and then file the case when it hurts your pocket–
-
 
 A warning flashes before my eyes.
 "STAY."
 I freeze in place. The network dissolves replaced by a single phrase.
 
-
 "Violence imminent: 99.9%"
-
 
 He raises his gun to my face. My heart is pounding in my throat.
 
-
 –give me a good reason not to smoke you right here! Come on. If you save the world as a day job start with your own ass–
-
 
 Another instruction flashes in my implant, I give a single step back.
 
-
 "6 o'clock 30cm"
-
 
 Teller starts circling me again, for a fraction of a second he stands where I did, a ray of sunshine lights his fiery hair. A single gunshot breaks the silence. Was that it? Is this how I die?
 
-
 Zed's muffled cries reach my implant, I look at my hands, doused in blood, SERENITY says my vitals are ok. It's not my blood.
-
 
 –Zed! Honey. It's ok. It wasn't me. Our sniper shot him, I'm here– my voice still shaking.
 
-
 –girl!!! You scared me so damn much. I'm just glad you're still here. You know how much I love you, my mind just jumped to the worse case. I'm ok, I'm here for you.–
-
 
 –I know, I'm so happy to have you in my life but please send in the team. I don't want to leave the detonator here but still, I have to go, I'm kinda covered in madman's blood–
 
-
 –Epsilon-5, fire suppression. Go in, secure the bomb and start cover story–
-
 
 Agents come pouring out of all the entrances. One of the team leaders talks to me.
 
-
 –Thanks for your service. That was very stupid but very brave. It's ok, we can take it up from here.–
 
-
 I leave back to Wormwood. Zed needs a hug but first I need a shower, they surely have one in the complex.
-
-
 
 
 Wormwood Foundation PNW division, Seattle, WA.
 
 
-
-
 The ride was even bumpier in silence. Dr. Teller's reasons were right, I suppose we all thought that, one way or another.
-
 
 My clothes will go straight to the incinerator, I take them off and pop a handful of pills, the headache will be here soon, I can feel the way it creeps in.
 
-
 Stepping into the shower I unwind under the hot water… I'm alive! It's weird to know the only reason I'm still here is because my girlfriend's digital god is watching over me.
-
 
 I look down, not knowing what to expect. I'm completely unscathed, no new injuries or scars anywhere in my naked body. Zed will probably double check whenever she fucks my brains out again, just thinking of that makes me smile, I can't wait to see her again. She always makes my world a little lighter, a little warmer.
 
-
 I leave my weariness in the shower as I step out into the heated locker room. I take my time tearing a paper bag that holds the emergency clothes change courtesy of the Foundation, and a minute later I'm ready to meet Zed again.
-
 
 I go to the annex where she's still working, and as soon as her eyes meet mine she runs to me. We hug and I don't want to let go, as always she smells like wood smoke and cinnamon. I catch Lauren in the corner of my eye but honestly I don't care, she'll wait. Zed is squeezing me with all her might and I wouldn't change that for anything, she shifts her weight, I'm basically carrying her.
 
-
 –Hanne! I was so scared!!! I'm so glad you're here. Having you trapped with that madman… It was the longest hour of my life, but still… you don't know how freaking proud of you I am right now–
-
 
 We kiss, office politics be damned.
 
-
 –Honey, I love you. We make a great team together, and in the end it worked. Don't worry, I'm ok, not a single scratch… tell SERENITY she did a great job… tell her I love her too– I burst into laughter at my last comment, is that what our relationship will be like? Me, my girlfriend and her artificial superintelligence? Don't care, it's perfect for me.
-
 
 I see the mischief in Zed's eyes.
 
-
 –not a scratch, sweetie? I'll have to check tonight, you know, just for your own good… maybe with my lips… ok, quite frankly for mine too. Thanks for coming back to me babe. I never doubted you'd save us all–
-
 
 Director Beckett comes into the room, we separate and try our best to appear composed but our blushes can't lie.
 
-
 –Oh, don't worry, keep going, whatever that was. Hanne, Sedna. You did a great job, our teams defused the bomb and contained the radioactive materials. We'll feed a cover story for the white house task force, our experts think it'll get dissolved in a few days. Crisis averted.–
 
-
 SERENITY's network popped back in my vision, the branches related to Michael Teller are no longer there. A few new possibilities spark my attention.
-
 
 * Dave Carlson death: 100%
 * Global thermonuclear war: 0.00% -averted-
@@ -2318,42 +1560,27 @@ SERENITY's network popped back in my vision, the branches related to Michael Tel
 * TriggerShield inactivation: 87.6%
 * Policy change: 71.9%
 
-
 I like those odds. I smile and shake Director Beckett's hand.
-
 
 –Thank you Director, it's been an honor. Honestly I couldn't have done it without Zed and SERENITY… I'm just curious, what comes next?–
 
-
 –you're always going straight to the point, right, Hanne? Well, first thing first you're free to take your time, it's not everyday you're almost shot and irradiated the same day. If we're still here it's because of you and your girlfriend, it's only fair you both rest for a while, Foundation psychologists are waiting if you need it. Don't worry, I already know about your relationship with Zed, Wormwood Foundation is open to our staff falling for each other, a simple privilege of working above the government. Personally you have my blessings–
-
 
 –Thanks, director. It means a lot to us… but you know that's not what I mean. We're not filing the case, right?–
 
-
 –oh, no! One of our front companies is getting ready for a hostile takeover of TriEye. We're shutting down TriggerShield. Also in a few days some of our experts will speak to the Senate under a cover identity, we hope to dissolve intellectual property, also hardcode protections against stress and burnout in the law but it'll be a long battle. Still, you're dismissed–
-
 
 Zed spoke, no longer blushing
 
-
 –Yes, Director. We'll be ok. Hanne and I wouldn't mind some time of our own, SERENITY will keep me informed–
-
 
 I help Zed take off her throat microphone, I don't want her to strain her arm yet. I take the opportunity to comb her hair with my fingers, she's almost purring.
 
-
 –Honey, my migraine is coming, compazine didn't work this time. Can we go back to your home? I kinda want to squeeze you until I feel better–
-
 
 –it's ok, sweetie. Transport is on the way, just let me spoil you today… Thanks for saving the world– her voice is barely a whisper.
 
-
 The transport arrives and we leave, I'm sweating bullets but at least Zed is by my side. I rest my head on her shoulder, the headache hits me like a runaway train.
-
-
-
-
 
 
 Sedna Lutece apartment
@@ -2362,70 +1589,47 @@ The next morning.
 
 My implant wakes me up and I groggily open my eyes, it's from the hospital. It's 6 o'clock in the goddamn morning, I'm not waking zed so I take the call on TTS.
 
-
 –Hi there, Hanne Acker, we're calling you about your patient, Dave Carlson–
-
 
 –Sure, what happened?–
 
-
 –Ms. Acker, Dave Carlson passed away yesterday, he chose to receive a lethal injection before the ARS rendered his venous access useless.–
-
 
 –Thanks for the update. It was the best for him… I just wish I could have been there for him–
 
-
 –it's ok, he was accompanied by his wife and one of our therapists. In a way you were there too, remember the emergency voice model for patient advocacy?–
-
 
 –you what??? You had a dying man talking to a machine and told him it was me? That goes beyond like… know what? I quit! The administration can keep my stuff as collateral, I'm just not going back to that shithole–
 
-
 –but, Ms Acker…–
-
 
 I hang up and get SERENITY.
 
-
 –hi there! Block everything from Horizon General, make sure they never reach me again. Confirmed?–
-
 
 –Horizon General Hospital added to Primary Asset Hanne Acker's blacklist. Is everything ok? You worked for them, until a minute ago–
 
-
 –yeah, don't worry, I just couldn't believe they were doing that.–
-
 
 –well, if that's what you want you can count on me–
 
-
 I looked at the bedside table and found a cup of tea still steaming, there's a little hot plate built into this table. I ask SERENITY.
-
 
 –was this Zed?–
 
-
 –the hotplate? Yep, teas help Analog Interface Sedna Lutece with period pains. This tea's mine tho, Analog Interface Sedna Lutece did the physical work tho. Drink it, it's ginger and feverfew, the pills are magnesium and more compazine, it'll make you feel better even if the migraine is leaving. Analog Interface Sedna Lutece won't wake up in another 2 hours and 40 minutes, you can go back to sleep–
-
 
 –Thanks, SERENITY… wait, you're monitoring our sleep? How?–
 
-
 –your implants sensors are enough for polysomnography, you know I'm always watching.–
-
 
 –that's kind of creepy… but I like you.–
 
-
 –if you want I can stop doing that–
-
 
 –Nah, it's ok, just because it's Zed and you.–
 
-
 I drink the tea and take some pills before spooning Zed. I really like her warmth as I fall asleep again…
-
-
 
 
 Zed's home
@@ -2434,854 +1638,567 @@ Noon
 
 We finish our lazy breakfast, still in pajamas.
 
-
 –I didn't know you're that great of a cook! It was the best shrimp shawarma ever, Zed–
-
 
 –There's a lot of things you still don't know about me, honey… I want you to explore them with me–
 
-
 There's a hint of sadness in her, I grab her hand and trace the borders of her signature white glove.
-
 
 –is there anything wrong, sweetie? You look different– I speak softly while caressing her hand 
 
-
 –Yes, Hanne. And I'm not even sure how to tell you… I don't want to lose you but I can't bring myself to ask that much–
-
 
 –it's ok, Zed. You can tell me, you're making me worried, you know I'm never leave you–
 
-
 –ok, well, here goes nothing… your involvement with the Wormwood Foundation? That was an emergency authorization just for this mission and it's about to end… but I want you fully on board forever, not only for the benefit of everyone but because you're my girlfriend and I don't want that to change… but Wormwood isn't any other job, it demands a sacrifice I don't think I can ask.–
-
 
 She takes off her implants, it's the first time I see her without them while wearing clothes, in a way she looks even more naked than when she was wrapped around me. I give her a peck on the cheek.
 
-
 –please do the same, honey, this should be between us, not the world, the foundation or even SERENITY–
-
 
 I take off my implants and tap against the table with them, I hate to look that nervous in front of Zed 
 
-
 –just ask, love, I'll do it all–
-
 
 –your old life… sweetie, you'd have to do the same sacrifice I did. A fresh start, if you will. The foundation will help you disappear… when one join Wormwood Foundation you're assigned a new identity, this place helps you adapt but if you have someone out there… it can get lonely–
 
-
 –Girl, I just torched my medical career. Of course I want a fresh start! We'll always be together! What do we need? Fake my death? A new identity?–
-
 
 –Yes to new identity, actually my real name isn't Sedna Lutece either, I changed it when they gave me the same offering you're getting, I'm sorry I can't give you the real one but I can tell you this… I chose Lutece for my long forgotten childhood friend, he helped me discover myself and accept who I am, as a lesbian, I mean. He was a mousy and confident young boy, always carrying a big medal in his pocket, the Order of Liberation, his great-grandfather got it for defending Paris, he was a saboteur with the resistance in WW2.–
 
-
 –That's amazing… Thanks for telling me that. You know what? Count me in! I don't really have a lot left to lose. And being with you for the rest of my days? I wouldn't change it for anything!–
-
 
 –you have little to lose? Torched your career? Now it's my time to worry sweety–
 
-
 –nah, I'm good. It's just that they called from the hospital. Dave Carlson is dead, he got euthanized yesterday. Horizon used my voice model, the one for emergencies, to make him believe he was talking to me… I resigned… over the phone–
-
 
 –oh wow! You did the right thing but still, that's quite the tantrum– she says stifling a laugh.
 
-
 –I know!!! Now you see why I'm eager to start again–
-
 
 Now we're both laughing, I still have to make it all official but we'll burn that bridge when we get to it, I get up and kiss her like the world is ending, she returns my advances. I barely grab my implants before tumbling to her sofa, we both put them on.
 
-
 –Hanne, I think I have an idea, I want SERENITY to know you as well as I do. What do you say? AI sex to celebrate our new beginning?–
 
-
 –Hell yeah! You lead me, sweetie.– I wink and see the mischief in her eyes, SERENITY agrees with a quick burst of data. We're all going to get our world rocked.
-
-
-
-
 
 
 SERENITY datacenter, former Sandy Groves Memorial Hospital.
 That evening.
 
 
-
-
 The old ambulance bay doors closed behind us as we left the city behind. The flickering fluorescent lights cast long shadows along the sterile walls. A mess of machines, tubes, pipes and hoses occupy what was once a desk, as I look upwards something catches my eyes. A screen, it's been years since I last saw one working, they became useless as soon as implants became commonplace. In it a strand of data scurries beside my picture. "PRIMARY ASSET HANNE ACKER: ACCESS GRANTED".
-
 
 A similar screen shows Zed's beautiful face, I can only read the designation. "ANALOG INTERFACE SEDNA LUTECE: WELCOME BACK".
 
-
 Suddenly a voice pierces the coffee infused air, it's firm but warm, with a hint of mischief and the rest of authority.
-
 
 –Hello girls! I wondered when you'd do the honors. Primary Asset Hanne Acker, welcome to my home, my brain and our playland! Analog Interface Sedna Lutece, it's good to have you back–
 
-
 –Thanks, Serenity! It's good to see you fully again, you did great back in the barricade– Zed said
-
 
 –well, we couldn't have done it without you and Primary Asset Hanne Acker–
 
-
 –SERENITY, you saved my life back then. I never thought I'd have someone to watch over me like that. Thank you.– I answer.
-
 
 –I was just doing my job, it's ok… and seeing Analog Interface Sedna Lutece and you happy is more than enough to make it all worth it. Do you want a tour of this place? I can be your guide, I'm sure Analog Interface Sedna Lutece has some surprises for you.–
 
-
 –You know I'd love it! I'm ready, SERENITY– I said buzzing with enthusiasm, she speaks funny but that's endearing in it's own way.
-
 
 –Well then, I'll use clock bearings for directions. Is that ok?–
 
-
 –Sure, I'm just curious. What do you use with Zed?–
-
 
 –custom auditory encodings, I can use it with you too, here's a sample–
 
-
 A cascade of beeps with varying pitch and volume assault my ears. It sounds like Morse code on cocaine. Zed is laughing her ass off, I gave her a playful bump.
-
 
 –nah, fuck that, I'll stick to the clock, Zed's always been the genius here– I say still catching my breath
 
-
 My implants project a scene around the desk taking it to its former days as a chaotic ER in a metropolitan hospital, just after a few seconds it goes back to normal. SERENITY keeps speaking.
-
 
 –this is one of Analog Interface Sedna Lutece's coffee sanctuaries, you know she can't live without being slightly wired. This place was the triage, a symbol of decisions over life and death. Come here, 11 o'clock. I'll show you the coffee maker!–
 
-
 I step to the desk and notice the tubes and other equipment. SERENITY keeps going
-
 
 –double stage cold brew, one of our designs, coffee goes inside the capsule, you add the vacuum filtration setup and the other side goes to the inert gas line. The pressure differential will extract absolutely everything and after the extract dissolves in boiling water the gas dissipates. Pretty clever right? Analog Interface Sedna Lutece likes to add matcha green tea on top and a dash of caramel. She can't deny her sweet tooth. Now open the cupboard please. 2 o'clock.–
 
-
 I do as she says and find a collection of cups, I see Zed is blushing but SERENITY ignores her and just keeps going.
-
 
 –those are all hers, commemorative from both colleges, The Company, Wormwood. But also novelties from her fandoms and travels… and if you see the cupboard as a 3d coordinates grid with the origin at 7 o'clock you'd find something very curious at 3,1,4. Take that mug–
 
-
 Zed looks like a tomato, I blow her a kiss and grab the mug before bursting into laughter, SERENITY confirms what I see.
-
 
 –club Aphrodite Temptation Amateur night. I think Analog Interface Sedna Lutece should tell you herself how winning a bet ended with her doing a full blown striptease in a night club–
 
-
 –winning? I'm sure you're hallucinating–
-
 
 –nope! Analog Interface Sedna Lutece just needed a nudge so she made a bet and when she cracked balloon hashing she got to strip and dance for the city–
 
-
 Zed just smiles as I ask her.
-
 
 –So, honey, was that a one time stuff or you do this every time you change the world?–
 
-
 –Sorry sweetie, I've given up explaining myself for lent. And you, SERENITY, don't make me cut out the power– she said faking annoyance but I can see the mischief in the corners of her lips.
-
 
 –you know the whole grid is my backup, besides, you love me just like I am. Primary Asset Hanne Acker, you want to see the rest? Follow me, 3 o'clock–
 
-
 Zed grabs a cup of coffee and we start walking again, the soft glow of the lights and the hum of electronics was our company in the long and winding hallway, the rooms that once held beds are now choke full of server racks and bean bag chairs, the nurse station hold another coffee maker and above us network cables cover the ceiling like an artificial canopy. There's still screens over the doors, curiosity got the best of me.
-
 
 –so, Zed, what's up with all the screens? Nobody uses them anymore–
 
-
 –well, being here I sometimes take my implants off, either to cut out the outside world or just for the freedom when I take everything else off too–
-
 
 –really? Is that what you did in your free time? Naked hide and seek with your AI god?–
 
-
 SERENITY answers for her.
-
 
 –not really, this place has more cameras than the Pentagon, also I can feel your footsteps with my hard drives–
 
-
 –as always you managed to give me the creeps but in a fun way–
-
 
 –oh well, it's not my fault there's so much data around you. The whole world is just an ocean of noise to be watched, filed, indexed, numbered. But you stand out, what you have it's a symphony… Anyways, it's here! 9 o'clock–
 
-
 A door opened before us, two sinks overlook a window and inside the second room a C-arm stands like a sore thumb surrounded by the vibrant tapestries displaying intricate patterns and vivid colors that replaced the sterile walls. We're in a scrub room and the operating theater is Zed's shop. We get inside, the strings of faerie lights crisscrossed with network cables and rubber tubing catch my eye. A surgical lamp stands tall, aimed at the table, now transformed into a sleek electronics workbench next to an Aeron stool.
-
 
 –Faerie lights and fluoroscopy? I love your style, sweetie. I didn't know your genius included X-rays–
 
-
 –It doesn't. I deal with all the low level stuff.– SERENITY answers before Zed, she chuckles.
-
 
 –Well, honey, welcome to my workshop. Here's where my ideas come to live. The birthplace of SERENITY and her heart too, inside that door there's a quantum coprocessor, always at a balmy 15mK. We can't go inside while SERENITY is running–
 
-
 –Don't you dare!– quips SERENITY and we all burst into laughter, Zed's lips brush against mine and I pull her closer.
-
 
 –You! get a room, talking about that. 2 o'clock. At the end of that hallway there's a surprise, you know you want to give me a try– says SERENITY, her voice slightly different, hotter somehow.
 
-
 Zed's still kissing me while she guides me to a cozy room nestled between racks of servers, it looks oddly intimate. Plush cushions and blankets created an inviting nook, there's a safe and Zed's eyes spark. I can only picture the kind of stuff inside and that's enough to make me gasp.
-
 
 We trip and fall on the bed, my eyes are closed as I focus on her touch, I roll as she grabs me by the hips but my foot lands on a little table, it's vibrating.
 
-
 –what the fuck‽– I freeze and open my eyes.
-
 
 –Bedside network cabinet sweetie, we had to make the most of the space– a small chuckle betrays her and she softly blows her hair out of her face.
 
-
 We laugh as our kisses grow deeper.
-
 
 –do you want me to leave or to help?– Said SERENITY.
 
-
 I nod to Zed before answering. –Stay, Zed has told me so much about you. Can we try?–
-
 
 –I knew you'd say that. It sounds like fun, I like to watch anyway–
 
-
 Zed started kissing my neck, she knows how much I love that. Still kissing me, her hand explores my body with horny intent. However, just as get fully in the moment, she pulls back slightly. My body instinctively follows hers, but Zed and SERENITY command me.
-
 
 –stay.–
 
-
 I let go and her fingertips slowly trace my arms, mischief in her smile. I can see the faintest movement in her eyes, she's texting SERENITY.
-
 
 –We have a better idea, sweetie. There's a lot of stuff for us to try–
 
-
 –and what would that be? You feel pretty amazing on your own– I tease Zed.
-
 
 –for starters, I want to take my sweet time with you honey… actually both of us want–
 
-
 –and there's also so much I can play with that we both know you like, as well as the contents of the safe. Wanna see what's inside?– said SERENITY.
-
 
 The kissing resumes, ever so lightly, just enough to keep me going while they talk, Zed grabs my shirt.
 
-
 –can I help you out of this?–
-
 
 Fuck, that question flips a switch in me, the anticipation skyrockets.
 
-
 –hell yeah, honey– I answer
-
 
 Her fingers bolt to the front of my button-up, she stops a fraction of a second. It's not hesitation but as if something or someone had changed her mind.
 
-
 She takes a contour clip off and playfully hides it in her hand before going back to me. Her lips brush mine and I feel the faintest salute from her tongue. She smiles at me, her short hair lawless and free. Her hands reach the buttons of my shirt again and she skillfully pops one off before smiling and kissing me again.
-
 
 –yeah, keep going, sweetie–
 
-
 The kissing resumes, enticing and passionate, while Zed removes my shirt one button at a time. Each touch of the cold metal against my skin sends shivers down my spine as her lips trail along my neck.
-
 
 She slides my shirt off and puts it on the cabinet next to her hair clip, snapped in half to reveal a small blade. Her hands go under my bra and give me a soft squeeze while my nipples stand at attention.
 
-
 –Follow and help me, sweetie–
-
 
 –Help you what?– I answer, my head tilts instinctively.
 
-
 –Get this party started… be a good girl and slide a shelf out of the cabinet–
-
 
 Fuck, she shouldn't have an idea how much that does it for me. But she does and I love it. I check the cabinet, among the switches and servers I find a console and a shelf. Why does she have both? I crack it, and my mind wanders to a very welcome scene.
 
-
 –Zed, what was that for?–
-
 
 –it's SERENITY's stuff. Don't get impatient– she kisses me.
 
-
 –well, and how does that work, honey? Or you want to tell me yourself?– I say winking at one of the cameras, too horny to care that I'm flirting with a computer. Will our digital god find me too needy? Fuck it. I surely hope she does.
-
 
 Both of them answer, finishing each other's sentences.
 
-
 –Well, it's kinda the same as most things we do together, she has the data and tells me what to do…– says Zed, still playing with my boobs
-
 
 –she only has to let herself go, becoming my hands and mouthpiece, so to speak– Serenity continues with a flirty tone.
 
-
 –I just get in the mood and let her guide my hands and trust that she’ll take care of me… but sometimes, I want…–
-
 
 –... A more perfect union. So I do the touching and other stuff to get her going.–
 
-
 –she gives me what I want and ask me what I'm thinking about–
-
 
 –and how the hell would the touching work?– I ask between kisses.
 
-
 –we have our tricks. Do you want us to play with you?– answers Zed
-
 
 –hell yeah, honey–
 
-
 The safe pops open, punctuated by a loud buzzer and the feeling of Zed's lips on my own, my tongue launches to part her lips and our tongues engage in a top secret dance. My heart beats harder, its pounding seems to drown out the buzzing of the server fans around us. Her lips taste like electricity and caramel and desire. I want more. My hands dart to her tits and a small sigh escapes her. She pushes me backwards while the kiss goes deeper. My elbows propped against the sterile satin sheets and her mouth exploring downward.
-
 
 Zed's hands continue their exploration, eliciting fervent moans from deep within me. Our connection grows stronger, fueled by desire and guided by SERENITY's presence.
 
-
 Together, Zed and I move effortlessly in sync, our bodies moving as if by instinct. SERENITY's control adds an electrifying element. She feels different, her own desire melting with the computer's skills.
-
 
 –I think it's time sweetie– Zed purred into my neck before she lined her beautiful eyes with mine. I never thought the implants could make her look that playful.
 
-
 –absolutely– She sighed to herself, or maybe to SERENITY.
-
 
 Her eyes became engrossed in an invisible datastream, her movements sharper, more purposeful but equally sultry. She… they have me wrapped around her finger.
 
-
 –Stay– she winked and blew me a kiss. It's that single word again. The anticipation is killing me but I do it. Behind the reverence for her electron oracle her lust is barely contained.
-
 
 –what's with SERENITY and you with that word? You make it sound so hot– I ask, biting my lip 
 
-
 –stay? That's because I don't want you to stop– says SERENITY 
-
 
 –now stay there and enjoy the show, sweetie– Zed finishes again.
 
-
 I sit back fully, my legs crossed for easier access while Zed grabs a feather fan from the safe, still blocking my view. She turns her head to me. The lights go off as she faces me. I feel the telltale tickle of feathers on my nipples, after a while the room comes back in the otherworldly glow of a blacklight.
-
 
 Taking in the scene before me, I stare at Zed, her body gyrating and undulating with abandon while her eyes burn with desire. Her suede trenchcoat billows behind her as she runs her hands sensually across her own curves.
 
-
 Zed's hands finally unbutton her coat and find their way to her boobs, teasing them through the wine-red velvet of her shirt before she pounces on me.
-
 
 –Shall I help you out of these?– she asks, grabbing my pants, a mischievous glint in her eyes.
 
-
 A jolt of desire courses through me at her words, igniting a fiery anticipation. I answered eagerly, my voice filled with urgency.
-
 
 –Yes, my love. Please do– I reply, aching for her touch.
 
-
 She swiftly unzips my pants and rubs against my panties, I only have to lift my butt, she squeezes it. My pants fly across the room and land on one of the racks, draped over the blinkenlights.
-
 
 Her body isn't touching me, but she's only a few inches away, close enough for the cable hanging from her form fitting pants to brush against my bare leg. Slowly she unties her coat and lets it slide down her arms before taking a serial cable and stretching it across the back of my neck, she pulls me closer to her and kisses the corner of my lips.
 
-
 I try to follow her but she pulls apart running her finger down her sternum. I follow it, noticing for the first time the intricate pattern of her shirt. It mimics a logic circuit, the metal thread subtly glinting against the deep velvet.
-
 
 Zed's finger jumps from her body to mine, going lower and lower before burrowing inside my panties, barely touching my soaked pubes. With one fluid motion she stands and turns back. Her beautiful face turned around, looking over her shoulder and right through me. Her eyes burning with desire but still fixed on the fast-moving directions from our higher power. She plops her finger in her mouth, still moist with me. My jaw drops and she gives a CCTV camera the finger guns.
 
-
 I want to jump at her, play each other like a fiddle until we both pass out from pleasure. I know she wants the same, the fire inside her eyes can't lie but her devotion to her automated deity is stronger, she's zealous of her duty as Analog Interface and for now SERENITY wants to toy us… oddly this only makes them both seem hotter.
-
 
 Her hands run down her body, her thumbs hooked on her waistband as she slowly pulls down. The weight of her pockets drag the garment down, she steps out of it and playfully tosses it to me.
 
-
 –there's something in my pocket for you–
-
 
 I rummage through her pants, inside a labyrinth of pockets a little tin box holds a single board computer, a software defined radio and a whole galaxy of wires, there's a small pen hiding an infrared floodlight and megawatt laser, she's ready for everything but none of that is what she meant. A small bottle and a silicone bullet catch my attention I show her the bullet and lube, she nods. Zed rolls me over onto my stomach, running her hands down my back before giving me a small smack. I yelp in surprise and pleasure. Her fingers run up my spine before she straddles me, her weight pressing me into the plush bedding beneath us.
 
-
 –hmm, sweetie. Let’s see if we can make you squirm even more– Zed's voice is playful and teasing, yet carries an undercurrent of anticipation. I see her shirt fly, followed by her bra.
-
 
 Suddenly I feel her hands on my panties, sliding them down my legs. I lift my hips to help her, feeling a rush of air as they’re removed. Meanwhile, her lips explore the nape of my neck, leaving a trail of fiery kisses in their wake.
 
-
 A finger teases the outline of my lower lips before disappearing, only to return with a dollop of lube. 
-
 
 –What do you say? Should we have some fun?– She teases.
 
-
 –Fuck yes – I reply eagerly.
-
 
 A persistent shiver courses through my body as the chilled lube makes contact with my skin, before being replaced by warmth as she begins to massage it in. My eyes shut tightly at the sensation, anticipating what would follow.
 
-
 Suddenly, I feel a small pulsation that travels deep inside me. The warm vibration grows stronger eliciting small moans that escape my lips. 
-
 
 –Oh fuck Zed…yes that feels so…mmm–
 
-
 Her hand starts in a slow, fluid motion while SERENITY drives the vibe with an staccato of pulses timed to hit my most sensitive spots. It's the best of both worlds.
-
 
 As the sensations increase, so does my volume. Zed leans over me, pressing her chest into my back as she whispers in my ear.
 
-
  –Good girl…let it out–
-
 
 I’m about to reply but a faint buzzing interrupts me, for some reason it makes me gasp, taking me right to the edge.
 
-
 ––That’s SERENITY’s work… we’re all in this together– Zed purrs, her warm breath tickling my ear.
-
 
 —Oh fuck… mmm, how did you do it?—
 
-
 —Access.— SERENITY's voice vibrated through the room, the toy inside me resonates with her words.
-
 
 —At the end we're not so different, the right patterns can make your brain play tricks on you, and I just did— she said.
 
-
 This should be one of the more alarming things I've ever heard, but at the moment I only care about Zed's fingers and the vibe inside me.
-
 
 Another wave of pleasure hits me, stronger than before. I grip the sheets beneath me as Zed's fingers work their magic, guided by the unseen commands of SERENITY. The pulsations increase in intensity and speed, driving me to the edge and keeping me there. 
 
-
 Suddenly, Zed stops, just before I explode. My body is left trembling, yearning for more. I turn to see her standing at the foot of the bed – her eyes are still scurrying to follow the downpour of data from SERENITY, a predatory smile lighting her face.
-
 
 —Ready for liftoff?— teases Zed, her voice hushed and horny but full of purpose.
 
-
 —yes… please come back— I wimper
-
 
 Again she winks at the security camera and hooks her thumbs on her panties before facing me, her eyes fixed on mine, staring right through the feeds flying by her implants, she pulls down slowly. Her neat landing strip is glistening with her wetness even if nothing has touched her yet.
 
-
 I roll over, exposing my front both to her and our cybernetic voyeur. SERENITY is still driving the vibe. It keeps me at the very last brink, but she's careful, precise enough not to throw me over the edge. 
-
 
 My hand slides down my body, burrowing between my spread legs. Zed jumps to the bed, in a fraction of a second she pries my hand away from my sex.
 
-
 —99.5%? huh— she whispers to SERENITY, barely audible before asking me a question —Do you want us to keep your hands out of the way?—
-
 
 Fuck. Part of me still thinks she shouldn't know that… who am I kidding? The world's her panopticon. Truth is I've always wanted to try.
 
-
 —absolutely— I sigh.
-
 
 A mischievous smile appears in Zed's face as she makes eye contact with the CCTV again, as if waiting for something and a few seconds later she nods and grabs a patch cable from the bedside cabinet.
 
-
 A speaker blared from the other room as Zed looped it around my hands, "rerouting government feeds". The cable is stiffer than normal but her movements are smooth and loving as she loops it around my wrists, the slick plastic sheat rubbing against my skin.
-
 
 I wiggle my hands, following hers until they're secured above my head with a sharp click. Zed plugged my makeshift restraint into something, in a twisted way SERENITY is holding me.
 
-
 —is that ok? Ready to play?— Zed asks.
-
 
 —ahh, mhh, please make me cum…—
 
-
 —I wasn't talking to you— she answers as her hands roam my body before she captures my lips in a passionate kiss.
-
 
 Her tongue explores every inch of my mouth while her fingers start their dance again, making me gasp into her mouth. I'm about to explode.
 
-
 Another tone and it all goes brighter, warmer. My senses rocked with an intensity never felt before. It's obvious SERENITY has put them on overdrive before I start to cum. I can taste the last drops of caramel in Zed's lips as I melt into them, the colors pop around us as every detail is enhanced both in my implants and my brain, the firmament of green and blue lights around us is the perfect backdrop for her silhouette, an image of raw lust, creating a new wave of anticipation for what’s next.
-
 
 I feel her breathe and see her pulse flush just beneath her skin. Her heartbeat resonates in my ears over the gentle hum of fans and the occasional chirp and whirr of data transferring that seemed to vibrate through my very bones.
 
-
 And the vibrations… The pulses go into overdrive and my legs wrap around Zed while her fingers push me over the edge. My orgasm hits me harder than anything I've ever felt before and my body starts to thrash around as her hand grabs onto my sex, keeping the vibe inside and holding me ever-so-hotly as I squirm around. After a few seconds I try to catch my breath, but the second orgasm hits me even harder than the first, as if on autopilot, I start grinding myself directly up into her hand. She knows I don't want it to stop and luckily SERENITY's code keeps me trapped in extreme arousal, while the vibration continues to please me and brings me to climax again, one of her fingers is right on my clit, and it just keeps sliding back and forth, aided by how wet I am! My fourth orgasm hit, and then my fifth and they keep going, the space between them getting shorter until they're almost continuous, I can't help but hold my breath, and suddenly the buzzing stops.
-
 
 Zed unties my wrists and kisses me again, the last effects of SERENITY's hack lingering in my brain as I bury my face in Zed's shoulder. Her short hair tickles my neck.
 
-
 I take a deep breath, her perfume of wood smoke and cinnamon and the sweet smell of sex overpower the subtlest hint of ozone, and the faint aroma of the datacenter cooling system. It's strangely comforting in its intensity. A few seconds later I'm back to normal, I wink at the CCTV, SERENITY knows what I want, it's time to focus on Zed
-
 
 –It’s my turn to drive you wild, sweetie– I tell Zed, still smiling.
 
-
 –Oh, you're not finished with me?– Zed asks, her eyes sparkling with anticipation. She gazes back at me, her body radiating desire.
-
 
 I sit upright and plant a soft kiss on her lips, my hands caressing her face while I look deep into her eyes, both bright with data and alive with lust for me.
 
-
 –I'm barely getting started– I reply, my fingers tracing the contour of her lips as I pull back my face slightly, feeling her breath mingle with mine.
-
 
 A wicked grin spreads across her face as she slinks down onto the bed, her arms spread wide and inviting me to explore her body. I slide my hands down onto her chest, my palms brushing against the softness of her breasts while I lean down to kiss the soft curves of her neck.
 
-
 My hands grabbed her breasts guided by the goddess inside my head, massaging the soft, perfect mounds gently with my fingers. She throws her head back and moaned as I pinched down on her nipples, pulling and tweaking them until they stood out even more. I lean over and suck on her neck as I start going down.
-
 
 She lets out a soft moan as my hands find their way down to her waist, tracing her soft curves as I graze the tips of my fingers over her outer folds.
 
-
 Her eyes flutter closed as she lets out a soft sigh, a sweet droplet of sweat trickling down the curve of her neck. SERENITY whispers into my implant and I stop, my fingertip loitering a few millimeters above her skin, enough to make her feel the heat but nothing more.
-
 
 –You tease— she murmurs.
 
-
 –Who says I'm teasing?— I whisper into her ear before nibbling it playfully, my fingers moving slowly into her sex.
-
 
 —I wasn't talking to you— 
 
-
 I caress her soft mound working her clit in tiny circles, just the way she likes it and what SERENITY knows is most effective.
-
 
 Zed's entire body tenses at the touch as she gasps, a look of pleasure flickering in her eyes. She hooks her legs around my waist and pulls me closer, pushing my face into the crook of her neck. Her hands run through my hair.
 
-
 Just as with me SERENITY starts the buzzing and chirping, taking her to the edge of overstimulation… or climax… or both.
-
 
 She guides my hand to the table and I grab something, it's a silicone toy, it spasms in my hand and after squirting a dollop of lube I gently push it deep into her slit, she takes it all with a small wimper.
 
-
 –Hanne…— Zed murmurs, gasping for breath as she anticipates what's about to come.
-
 
 –I… I'm, I'm going to…— Zed gasps, her voice cracking as she struggles to speak.
 
-
 –Let it out, hun… Let it all out for us— I encourage her, my fingers moving more insistently.
-
 
 Zed's body responds to my command just as much as it responds to SERENITY's, her eyes rolling in pleasure as she surges over the precipice. Waves after waves crash over her, making her arch her back and grip the sheets beneath her. Her every muscle tightens and relaxes around the toy as SERENITY follows her rhythm in an overwordly dance of pleasure. 
 
-
 –Oh... oh God... I...— Zed stammers, her voice barely a whisper as the waves of pleasure continue to crash over her.
-
 
 She looked up at me with her eyes wide, then suddenly her eyes rolled into the back of her head. She was cumming for me again and again and again! Her hips gyrating as she ground her pussy into my hand Her legs quivered, and her whole body shook. Most of all, she squeals and gasps, as she loses herself in total pleasure.
 
-
 I kiss her gently, keeping my fingers still over her clit as she rides out the aftershocks of her orgasms. She pulls me closer, our bare bodies intertwined in the dim glow of the blinkenlights. Zed's breathing slows down as she finally comes back down to earth, a satisfied grin on her flushed face.
-
 
 –So... was that good for you?— I tease her, running my thumb over her lips.
 
-
 –Better than good...— Zed whispers in response, a soft laugh escaping her lips.
-
 
 I snuggle her while she catches her breath, her head still buried in my shoulder. I play with her hair.
 
-
 —I want to stay like this forever, Hanne—
-
 
 —yeah, I feel so safe with you Zed.—
 
-
 We cuddled for a while before I blow the CCTV a little kiss.
-
 
 —and well, Primary Asset Hanne Acker, you enjoyed this as much as I did?— SERENITY asks, her voice back to normal
 
-
 —You, my dear, are a sex goddess. I think I may have an AI kink now—
-
 
 Zed bursts into laughter and almost rolls down the bed, I grab her before she falls, still careful not to strain her arm.
 
-
 —too much information SERENITY, I didn't need to know that!—
-
 
 —there isn't such a thing as too much information, just what we do with it—
 
-
 —I guess it is the new currency…—
-
 
 —what was that, honey?— I ask when the banter dies down for a bit, pulling Zed closer to me again.
 
-
 —oh nothing, sweetie. Just some intel on your new kink… but honestly I'd prefer to learn by doing.—
-
 
 —well, we still have a lot to learn about each other but you know what's what I really want now?—
 
-
 —To snuggle and let me play with your hair until the next time The Foundation needs us?—
-
 
 —close… post-sex ice cream and a steaming hot shower—
 
-
 —wait what?— I giggle and quickly kiss her forehead.
-
 
 —hey! Don't knock it until you try it! I always keep snacks nearby, follow me, the closest fridge is in radiology, just up the hallway, there's a shower next door—
 
-
 We cuddle for a while longer, the weight of our bodies intertwined and the gentle rhythm of our breaths soothing to the soul. The dimly lit room provided a beautiful backdrop for the intimacy shared between us.
-
 
 Our digital voyeur has witnessed, recorded, indexed and analyzed our most vulnerable and pleasurable moment todaye but even then she made it even better.
 
-
 –You know, sweetie, I could get used to this new kink of yours– she murmurs, her voice laced with playful affection.
-
 
 I help her stand, our legs are still wobbly after the barrage of orgasms, SERENITY's bird eye view of the place was oddly useful to find our clothes but the sight of Zed's nude form is undeniably enticing, I'll never have enough of her.
 
-
 We make our way to the fridge in radiology. The allure of post-sex ice cream pulls us. Zed opened the door and there it was. The refrigerator hummed like a welcoming lullaby. As soon as we got there the fridge door went clear, electrooptic glass again, a reminder that this place is above all SERENITY's.
-
 
 We laughed as we picked out our flavors, chocolate mint and crushed almonds on top, the stark contrast between my warm skin, still flushed from our session and the ice cold dessert felt amazing, just as Zed promised.
 
-
 I look at her, still naked and smiling but engrossed in her snack. Somehow she looks just as tasty.
-
 
 The shower next door was as high-tech as everything else in this place. The floors were already heated. Carefully calibrated to our body temperature, again SERENITY did her magic. I could get used to her. What a couple would that be, right? Me, my girlfriend and her god of human creation. Is that even a couple? Probably not, I don't care for the name, I'm just happy to be part of it.
 
-
 The door closed behind us, the soundscape changed in a single second. If I close my eyes we're no longer in a secret datacenter hidden in an old hospital no one cares about. The sounds transport us to the heart of a rainforest, a campfire cracking melts with the impossible background at the distance. The sounds seems to come from everywhere at the same time, not like the implants do but as if we were truly there.
-
 
 We get inside and the shower starts on its own. Jets of water at just the right temperature caressed our skin from tens of different directions, angled toward us and tracking our movements as we continued to explore each other—this time is different, tender.
 
-
 She takes the initiative and kisses me, this time I know it's her, not SERENITY. Her hands on my chest are sending waves of pleasure through me. Zed walks closer, pushing me up against the side wall opposite the door and pressing her chest up against mine. I push into her lower body as well. She can feel me grinding against her right where her groin is located. The warm water rains down on us both. My arms move behind her, rubbing her back all over. She does the same. Zed is moaning softly, almost purring, just barely audible over the generated soundscape.
-
 
 Zed lifts her left leg and wraps it around my hip, returning my embrace and pulling herself against me firmly. I almost lose the kiss as I gasp, but she thrusts her face forward to prevent my escape and pins my head against the wall behind me. This is INTENSE! I don't know how long our lips held together. It had to be several minutes. We might've stayed there forever if Zed didn't slip with her leg on my hip, almost falling. Her slip caused our kiss to finally be broken, I grab her and lightly splash her. She dodges it. SERENITY is whispering in her ear, always 20 moves ahead. We laugh about it and finish our shower, lathering each other and letting the motion tracking water jets rinse us.
 
-
 Lavender-scented mist radiates from beside the curb, wrapping around us like a comforting blanket. Our make-out session might have been playful, but also nice and intimate in the way we enjoy each other’s company.
-
 
 We get out, dry off and wrap ourselves in fluffy towels preheated to the point of feeling like a warm caress. Is that how SERENITY hugs? I like it.
 
-
 My fingers trace the lines where Zed's augmentations met her skin, right above her eyes there's a brushed metal bar that houses the electronics, all held in place by the powerful magnets drilled into her bone, concealed by two little scars and connected to a hidden electrode array. She catches my hand and squeezes it lightly.
-
 
 —honey don't. It stings a little—
 
-
 Zed gets a pair of identical pajamas out of the drop ceiling. Her naked form fully outstretched. She's clearly putting on a show and I'm enjoying every second of it all.
-
 
 We dress together, stealing playful glances at each other. It's obvious there's a connection between us, and it has nothing to do with the data link we share with SERENITY.
 
-
 As we walk back to the cozy nook SERENITY had pointed us to earlier, I leaned into Zed. —You know— I began, staring at her beautiful face, —I think I like this kind of user input.—
-
 
 Zed chuckled at my joke, shaking her head. —And to think I'm the techie… You're a true nerd at heart, Hanne— she teased.
 
-
 —oh shut up, you know you love me—
-
 
 —guilty of all charges, sweetie. I feel like we've known each other for years—
 
-
 —I know! Kinda wild how fast we clicked—
-
 
 Together, we fell onto the cushions. I find my head resting on her as she plays with my hair, I feel so safe in her arms, even if the whole world is falling apart.
 
-
 I wink at one of SERENITY's CCTV cameras. She's a deity in her own right, a god with benefits who had given us a second chance, followed by the most amazing fuck of our lives.
-
 
 —So— I whispered into Zed's ear as she played with my hair, "when do you think The Foundation will call us again?—
 
-
 She shrugged. —Let them call when they will, sweetie. You gotta learn the world is always doomed, we just happen to have a first row view of the whole mess.— she paused to plant a kiss on my lips, —For now let's just enjoy that we're somehow still here.—
-
-
-
-
 
 
 Hanne Acker apartment.
 A week later.
 
 
-
-
 My implant rings, it's a new message from Zed “turn on the news, sweetie. At least something not totally fucked up came from the TriEye murders”
-
 
 I answer with a quick glance and do as she said. All streams are showing the same AI caster over the UN building.
 
-
 —In a shocking development the implant company TriEye Inc. has been successfully liquidated following a hostile takeover by an undisclosed buyer. Their star product, the Percept Implant, has just being fully released to the public domain in a first for the hardware industry. In a few moments Gabriel Hathaway, specialized consultant for the now defunct company will present an update to the United Nation General Assembly.—
-
 
 I grinned at the news, Wormwood was definitely behind this. The image changes to the inside of the building where a tall black man in a sharp suit holds everyone's attention.
 
-
 —Esteemed citizens of our global community, distinguished members of the council.
-
 
 Where yesterday I was bound by my role as technical advisor to the most significant corporation in the annals of mankind, today I stand before you unencumbered by such chains. Today, I address you not as a corporate servant but as a free man.
 
-
 The sun has set on TriEye Inc., and in its twilight, its entire technological arsenal has been handed over to serve the greater good of humanity. With this transition, your personal freedoms now extend inwards beyond the boundaries of your body. Engulfing the infinite realm of the mind, they present you with keys to not only the doors of perception but to a bright new dawn where the singularity is no longer a distant dream but a reality within our grasp.
-
 
 But decisively, I am here not to seduce you with promises of transcendence but to provide a bitter retrospect. It is with profound regret that I disclose that our collective attempts to foster relentless human advancement have been critically misguided, powered by the unrequited sacrifices of our greatest minds.
 
-
 The silent onslaught of stress has taken more lives than even smoking, claiming victims at an alarmingly young age. Since 2029, burnout has been crowned as the leading nonviolent cause of disability amongst young adults. We are becoming increasingly isolated, withdrawing from the comforting embrace of friends and family while even sex dwindles in frequency. What is driving this malaise? It is our system's insatiable hunger for continuous productivity and innovation.
-
 
 When we established iterative development as the norm, we unconsciously traded life for existence. Yes, taking pride in one's work and fostering hopes for a prosperous future are not evils. But when devotion to work supplants love for family and leisure, we must pause and reflect: When does one make time for those who return love with love?
 
-
 A virulent plague of loneliness, anxiety and dissatisfaction have swept across our society. Yet, we have chosen to ignore it, ensnared by the shadows of a seemingly never-ending state of crisis. Many of these crises, ironically, were born out of our own hands and served to line our pockets.
-
 
 Among the dark litany of our missteps is this haunting truth - despite every industry running at full throttle, why then, are we not basking in the glory of their results? Some may gesture towards their implants as testaments to progress, and they would be partially correct. The access and connectivity offered by these technological marvels are indeed dreams manifested into reality. However, what sets us apart as humans is not mere access to information but our capacity for creativity.
 
-
 As a species, we are artists and storytellers who will fight tooth and nail, with rifles or legal briefs or computer codes, to protect our creative legacy. A word to the wise; intellectual property must not be seen as a tangible asset but an ethereal theft of our shared culture. No pact or piece of technology should ever imprison the ideas that make us human.
-
 
 The stranglehold on creativity enforced by patents, trademarks, copyrights, blockchain and DRM is nothing short of a suppression of humanity’s essence. Why should fiction, innovation or art be locked behind laws instead of being kept alive through reinterpretation or even plagiarism, just like our ancient myths? The current market for creative products is tragically reminiscent of the diamond markets in Zaire in the late 20th century. There too human lives were callously discarded for the sake of hoarding precious stones.
 
-
 I assert unequivocally that there is no grand conspiracy at play here: merely a malignancy borne out of past missteps that has evolved into an all-consuming system. This system that shrewdly conscripts vast human and material resources has constructed a tightly woven structure incorporating industry, diplomatic intelligence, economic strategies, scientific research and political operations.
-
 
 TriEye had plans to further tighten this stranglehold with the forthcoming installment of a firmware-level copyright filter in the universal Percept Implant. It is for this reason that I urge you, indeed I beg of you, to cease this descent into chaos.
 
-
 I have bared our collective transgressions before you, not seeking atonement but advocating change. We, the people of Earth demand that the root causes be confronted and effective solutions be implemented.
-
 
 I demand the immediate cessation of all intellectual property rights, retroactively applied. This is to be complemented by a reduction in working hours, annual salary increments proportionally aligned with GDP growth, widespread application of narrow AI systems where applicable, and the introduction of a Universal Basic Income.
 
-
 This is not utopian idealism; we have the technological prowess to make it happen. We need not live like this anymore. We deserve to be masters of our time and knowledge should be unshackled from its chains. No more intellectual property! No more enslavement to work!
-
 
 As I exit this room, I am painfully aware that my life – until its final breath – will surely be lived under a loaded gun. Yet, fear does not hold me captive. For I know that this cause transcends my personal existence.
 
-
 Thank you for lending me your ears. If they are still turned my way and may God have mercy on our souls.—
-
 
 I sent another message to Zed.
 
-
 —Weren't you going to tell me everyone in the Foundation is balls to the wall insane?—
-
 
 —Nah, not really. Only me… and maybe Lauren. Anyways, it's not like we gave Gabriel that speech, even if he's actually our asset in the first place.—
 
-
 —If? Can't you ask our girl in charge?—
-
 
 —SERENITY? She knows but that's need to know, and no, being nosy isn't a reason sweetheart—
 
-
 —So, you think things will change?—
-
 
 —Probably, Oversight will take it from here anyway, our job here's done—
 
-
 —You changed my world in more than one way then—
-
 
 —it's a brave new world, honey. You know what? I want to start it with you. Coffee date in 20?—
 
-
 —deal! See you there!—
-
 
 I get a ping to my implants, an address nearby. I get changed and leave. Outside there's chaos.
 
-
 I squeeze myself past the crowds pouring in and out of the subway, my implant flashes a warning as I glance towards the station.
-
 
 “MAJOR DISRUPTIONS REPORTED ACROSS ALL PUBLIC TRANSPORT NETWORKS. PLEASE AVOID”
 
-
 The air smells like smoke and humanity and sirens blare all around. What the hell is going on? My implant responds with a barrage of headlines.
-
 
 “MONEY DOWN THE TOILET! Flash crash following TriEye liquidation burns billions per second”
 
-
 “Workers take the streets as doubts surrounding compensation spreads”
-
 
 “Manhattan, Berlin, Tokyo and London report rolling blackouts in an attempt to stop runaway market crash”
 
-
 There's too much chaos, I ask SERENITY for a dossier, her voice has the subtlest hint of excitement.
-
 
 —Can you hear me? Markets are reacting to the fall of TriEye, governments are trying to stop the fallout but it's not enough so other companies had to restructure, the victims of mass layoffs are rioting but our front companies are ready to hire 97% of the affected people. Most corporate buildings as well as the stock exchange have been evacuated, OTH radar shows undercover military aircraft circling major cities and emergency departments across the continent report an 86.7% occupation and climbing. Things are going to change, it may look hopeless but there is no such a thing as a peaceful transition. A new dawn for your species is expected during the next 18 months—
 
-
 As I kept wading through the chaos she showed me new probabilities:
-
 
 * Policy change: 100%
    * Universal basic income: 90.01%
@@ -3299,60 +2216,37 @@ As I kept wading through the chaos she showed me new probabilities:
    * Curfews: 1.23%
 * Economic recovery: 86.00%
 
-
 Minutes later I arrived at the café, Zed was already waiting for me. The riots somehow avoided this whole neighborhood, the place is almost deserted. Better for us, I think.
-
 
 —Hi, Zed! You look super fresh considering the mess out there—
 
-
 —Same as you, Hanne. I wasn't expecting that much chaos—
-
 
 —yeah, and I think we caused it.—
 
-
 —Nope, not really, it's just that you have to break a few eggs to save the world. I'm sorry, babe but even in our line of work you can't save everyone—
-
 
 —Is that it? Wipe our hands while the world burns?—
 
-
 —It's not burning, just evolving. It's a new dawn, SERENITY says things are about to get better, but it's not like we can come out and explain it. The people out there? They'll have to find out on their own—
-
 
 —Then we're safe. It 's ok. I trust you —
 
-
 —Thanks honey. If this is a new age I want to start it with you—
-
 
 —oh you will! I'll need a lot of your help for my fresh start—
 
-
 She leans in to kiss me, our lips meet halfway and she whispers into my mouth
-
 
 —you'll never be alone, Hanne—
 
-
 A pop up interrupts our kiss, there's an emergency action notification:
-
 
 “Attention Attention
 All public places will be going into lockdown in 15 minutes. For your own safety, please evacuate.”
 
-
 —gotta leave, Zed. Wanna stay at my place and watch all hells break loose over some popcorn?—
-
 
 —Hell yeah—
 
-
 We left together. The smoke plums are getting bigger but if we're going to reborn from our ashes something has to burn first.
-[a]Trauma room, not ER
-[b]Time
-[c]Her
-[d]Implants
-[e]Implants
-[f]Take this out!
