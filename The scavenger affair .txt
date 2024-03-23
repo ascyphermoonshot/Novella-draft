@@ -27,20 +27,20 @@ Well, you remember last time you were here?–
 –huh–
 –well, we compared your lab results from today and last week and found some anomalies in your blood count. Your white cells in charge of fighting infections are way fewer than normal–
 –oh God…–
-–we ran a test called cytogenetic biodosimetry that check whether your cells have been affected and I'm afraid I have bad news–
+–we ran a test that check whether your cells have been affected and I'm afraid I have bad news–
 –what do you mean bad news? Just shoot damn it!–
 –ok ok, I understand your anger, bear with me I've been trying to say that some days before your last visit you have been exposed to a lethal dose of radiation, I'm sorry–
 –This can't be real. I'm a lawyer!–
 –I'm afraid it is, this must be awful for you and it's ok to be upset.–
 –well, fuck. What 's next?–
-–Mr. Carlson, I'm sorry but you received approximately 7.5Gy, unfortunately at these levels there's nothing we can do; we can try to pull out the radioactive material from your body but the damage is already done–
+–Mr. Carlson, I'm sorry but you received approximately 7.5Gy of radiation, unfortunately at these levels there's nothing we can do; we can try to pull out the radioactive material from your body but the damage is already done–
 –how long? I mean, will I die?–
 –I’m very sorry to give you this news. I know this must be very difficult for you but I'll be honest. It usually takes around a month–
 –Ok. I need to call my wife. Tell her I love her. Keep her safe–
 –we'll help you with that but I need to know… has anything out of the ordinary happened? Any insights on where and when have you been exposed?–
-–No. No, it makes no sense. I've been neck deep in my work. The WIPO sent a strongly worded letter a few weeks ago, made a feature request and we're struggling to meet their deadline. Just been home and work. Nothing else. Even my last bender was at home, to blow some steam–
+–No. No, it makes no sense. I've been neck deep in my work. The WIPO sent a strongly worded letter a few weeks ago, made a feature request and we're struggling to meet their deadline. Just work, you know how corporate is, the world is always doomed.–
 –Ok. I'm sorry. What we can do is try to keep you comfortable but you'll have to stay with us. My colleagues will take you to your room. They'll explain the process for your end of life decisions and contact a religious minister if you want. Do you have any questions? You want me to stay here with you while they arrive?–
-–uhm, am I safe? Won't I irradiate you?–
+–uhm, am I safe? Won't I hurt you?–
 –No. No, it's ok. Radiation is not contagious. That's actually a really common misconception–
 –Hanne–
 –yeah–
@@ -149,17 +149,17 @@ Zed opens a test tube. What am I getting in?
 
 –see, it's new and sterile. Please open wide… ok, just a cheek swab… done! Now, can you follow me? We're going to the scanner to get the gait signature–
 
-I started following her out of the conference room, the corridor lined with screens showing several views made me forget this place has no windows. We finally got to the scanner room and Zed scanned her badge at the entrance. A keypad popped from the wall and she typed a code. The door opened to a room straight out of science fiction.
+I started following her out of the conference room, the corridor lined with screens showing several views made me forget this place has no windows. We finally got to the scanner room and Zed scans her badge at the entrance. A keypad popped from the wall and she typed a code. The door opened to a room straight out of science fiction.
 
 –is that a CAT scanner‽ It doesn't look like any I've worked with–
 
-–in a way yes but we're not using X-rays here. What you're seeing is a real time volumetric terahertz imaging system. State of the art, even for us! Now I'll go to the control room and I'll need you to take off your shoes and stand between the two prongs… Open your arms wide, just like that. I need to make sure the arms never touch you. Ok, I'll go and you'll follow the instructions from the machine.–
+–in a way yes but we're not using X-rays here. It's just skin deep. State of the art, even for us! Now I'll go to the control room and I'll need you to take off your shoes and stand between the two prongs… Open your arms wide, just like that. I need to make sure the arms never touch you. Ok, I'll go and you'll follow the instructions from the machine.–
 
 She left the room and the prongs began to spin, after gaining speed a green light turned on in the other side of the room. A voice started giving instructions.
 
 –Please walk normally towards the green light–
 
-After arriving the arms slowed down and the voice spoke again.
+After arriving the arms slow down and the voice spoke again.
 
 –thank you for your cooperation–
 
@@ -173,11 +173,11 @@ Zed came back with another cart.
 
 –I Hanne Acker do solemnly affirm to support and defend the normalcy consensus, human civilization and survival of earth's biology against all threats to the full extent of my capacity; that I enter this obligation freely, without any mental reservation or ulterior motives and that I will uphold and protect the secrecy and interests of our organization above any other of my allegiances by fire through shadows for earth.–
 
-–thanks. Now I'll get you your new implants, these ones look the same but they're connected to the Wormwood Foundation secure network and its helpers, also have an uplink to our satellites, and biometric monitoring. This card is your key to our facilities, locks are randomized and can ask for your card, employee number or biometrics. Always carry it–
+–thanks. Now I'll get you your new implants, these ones look the same but they're connected to the Wormwood Foundation secure network and its helpers, also have an uplink to our satellites, and biometric monitoring. This card is your key to our facilities, locks are randomized. Always carry it–
 
 I fastened the implants, they're a bit heavier but the magnets still hold them securely. I look at the card and a massive amount of data shows around it. For a secret organisation this is certainly flashy.
 
-–the card is actually an e-ink display, it has 3 modes you can control from the implants, that was overt mode; Through Foundation approved devices it displays the identity data and current vitals of its owner, without them it shows your security clearance and name. The second is access mode; To our implants it shows your security clearance and name but without them it is a fake ID, it can mimic any law enforcement or intelligence agency, military contractor or United Nations division. The last one is cover mode; it only shows your name through our implants and a blank piece of paper without them. Welcome on board, agent acker.–
+–the card is actually an e-ink display, it has 3 modes you can control from the implants, that was overt mode. The second is access mode; To our implants it shows your security clearance and name but without them it is a fake ID, it can mimic any law enforcement or intelligence agency, private military contractor or United Nations division. The last one is cover mode; it only shows your name through our implants and a blank piece of paper without them. Welcome on board, agent acker.–
 
 I shook her hand and she pulled me closer for a hug, she smells intriguing, like cinnamon and wood smoke; a good match for her personality. It's certainly a warmer reception than expected but I'll probably get used to this.
 
@@ -195,7 +195,7 @@ I shook her hand and she pulled me closer for a hug, she smells intriguing, like
 
 –the Percept implant!–
 
-–exactly, and they are a monopoly in sensory augmentation. If this is for access we might be seeing the end of the era of information. After the Tainted Soul attacks to the 911 system people starting to question our reliance on computers, if someone gains the master key to TriEye they'll literally shape human perception.–
+–exactly, and they are a monopoly in sensory augmentation. If this is for access we might be seeing the end of the era of information. After the Tainted Soul attacks to the 911 system people started to question our reliance on computers, if someone gains the master key to TriEye they'll literally shape human perception.–
 
 –Well, we have to stop it, you have any suspects?–
 
@@ -209,7 +209,7 @@ We got to a locked room labeled "armoury" I try to find my pills but the Foundat
 
 –hmm, Zed, where are all my meds? I'm pretty sure I had them at the train station–
 
-–they're in the evidence locker! We didn't know they were all yours. You were carrying 10 prescription bottles with 3 different names, all for compazine–
+–they're in the evidence locker. We didn't know they were all yours. You were carrying 10 prescription bottles with 3 different names, all for compazine–
 
 –uhm, yeah, they're for my migraines. I take them since the war–
 
@@ -223,17 +223,9 @@ We got to a locked room labeled "armoury" I try to find my pills but the Foundat
 
 –oh, sorry, SERENITY.aic is our global analysis and engagement neural network. She is my brainchild –
 
-–oh ok ok, that makes sense, then tell SERENITY I want my meds back before it starts to hurt!–
-
-–your pills are in the evidence locker, SERENITY doesn't have access and neither do I. We can get you compazine from the on-site clinic but please stop eating them like candy–
-
-–well, if I don't do it I get grumpy and then the migraine comes back, I know how to dose my own drugs!–
-
-–ok ok, I already requested a new bottle, it'll come through the tubes, luckily there's one here at the armoury, you are already getting grumpy–
-
 Zed opens a tube mail capsule and hands me a pill bottle with no label, I pop a few pills.
 
-–Ok, thanks, I wasn't getting grumpy for the migraine, I just don't like people messing with my pills, sorry–
+–Ok, thanks, I just don't like people messing with my pills, sorry–
 
 –yeah, don't worry, sorry for the mistake but you understand, you had a pharmacy with you–
 
@@ -247,7 +239,7 @@ I do it, inside there's a small ring with the engraved logo, a snake swallowing 
 
 –oh, ok, thanks, and the gun?– I unload it and start checking it, it's way bigger than most others but surprisingly light.
 
-–that's the Lucidity, the official Foundation sidearm, a modified FN with 3 round burst mode and 30 rounds extended magazine, there's 2 magazines there, one are self defence hollow points, the other are semi armor piercing incendiary–
+–that's the Lucidity, the official Foundation sidearm, a modified repeating pistol–
 
 –really? An a machine pistol. Just how much money do y'all have‽–
 
